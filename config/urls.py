@@ -4,6 +4,7 @@ from news import views
 from news.admin import inline_upload, preview
 
 urlpatterns = [
+    path("health/", views.health),
     path("api/resolve/<str:kind>/<slug:slug>/", views.resolve),
     path("admin/inline-upload/", admin.site.admin_view(inline_upload)),
     path(

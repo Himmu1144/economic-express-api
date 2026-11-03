@@ -364,3 +364,13 @@ class BackendTests(TestCase):
         self.assertEqual(
             self.client.get("/api/resolve/category/missing/").status_code, 404
         )
+
+
+class HealthCheckTests(TestCase):
+    @override_settings(SECURE_SSL_REDIRECT=False)
+    def test_health_has_no_database_queries(self):
+        with self.assertNumQueries(0):
+            response = self.client.get("/health/")
+        self.assertEqual(response.status_code, 200)
+        self.assertEqual(response.json(), {"ok": True})
+        self.assertEqual(response["Cache-Control"], "no-store")

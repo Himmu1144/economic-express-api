@@ -22,6 +22,8 @@ DEBUG = flag("DEBUG")
 TESTING = flag("TESTING")
 SECRET_KEY = os.environ["SECRET_KEY"]
 ALLOWED_HOSTS = csv("ALLOWED_HOSTS")
+if os.environ.get("RENDER_EXTERNAL_HOSTNAME"):
+    ALLOWED_HOSTS.append(os.environ["RENDER_EXTERNAL_HOSTNAME"])
 DATABASES = {
     "default": dj_database_url.parse(os.environ["DATABASE_URL"], conn_max_age=60)
 }

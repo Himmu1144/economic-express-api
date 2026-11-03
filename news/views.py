@@ -180,3 +180,11 @@ def resolve(request, kind, slug):
     response = Response({"exists": exists}, status=200 if exists else 404)
     response["Cache-Control"] = "no-store"
     return response
+
+
+@api_view(["GET", "HEAD"])
+def health(request):
+    """Liveness only: keep the web process warm without waking Neon."""
+    response = Response({"ok": True})
+    response["Cache-Control"] = "no-store"
+    return response
