@@ -54,3 +54,9 @@ Run `neon deploy` from this backend folder to reconcile the services and pull cr
 Use `DATABASE_URL_UNPOOLED` as the `DATABASE_URL` process variable for migrations. Do not print either connection URL into logs. Keep the pooled `DATABASE_URL` for normal API traffic. The frontend needs only the API URL and public storage hostname (`IMAGE_STORAGE_HOST`); database and storage keys remain in the backend.
 
 Local `.env.local` files currently target HTTP ports 8001 (API) and 3001 (frontend), with `DEBUG=False` and an explicitly local `SECURE_SSL_REDIRECT=False`. Replace these settings with hosted HTTPS origins and enable the redirect when deploying. The demo editor credentials, if created by verification, are stored locally in ignored `.demo-login.json`.
+
+## Temporary Render demo health check
+
+The Docker image collects CMS static files during its build. At runtime it starts Gunicorn immediately; it does not perform schema migrations or seed content on each wake. Apply any future migrations once, with the Neon direct connection, before deploying a schema-dependent release. The database is already initialized for this demo.
+
+`GET /health/` is a liveness endpoint that returns `{"ok": true}` without database queries. It deliberately does not check Neon or Yahoo. After Render is live, `sh scripts/configure-demo-scheduler.sh https://SERVICE.onrender.com` creates or updates the ten-minute HTTP job in the configured Google Cloud project and triggers a test execution. The script defaults to project `bcrm121`, location `asia-southeast1`; override `GCLOUD_PROJECT` / `SCHEDULER_REGION` as needed. Remove the job after the demo period. This reduces ordinary idle sleeps, not restarts or quota interruptions.
