@@ -1,0 +1,29 @@
+{
+  "article_status": 200,
+  "headline": "Demo: Neon image upload workflow",
+  "images": [
+    {
+      "url": "http://localhost:3001/_next/image?url=https%3A%2F%2Fbr-patient-scene-azke1ljt.storage.c-3.ap-southeast-1.aws.neon.tech%2Farticle-images%2Fcovers%2Ff1ba5898797944e2a862d3486d6871ca.webp&w=1920&q=75",
+      "loaded": true
+    },
+    {
+      "url": "https://br-patient-scene-azke1ljt.storage.c-3.ap-southeast-1.aws.neon.tech/article-images/inline/6f5c332b05d54de292b14b3d904c1a15.webp",
+      "loaded": true
+    },
+    {
+      "url": "http://localhost:3001/_next/image?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1590283603385-17ffb3a7f29f%3Fw%3D1600%26q%3D70%26auto%3Dformat%26fit%3Dcrop&w=384&q=75",
+      "loaded": true
+    },
+    {
+      "url": "http://localhost:3001/_next/image?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1551288049-bebda4e38f71%3Fw%3D1600%26q%3D70%26auto%3Dformat%26fit%3Dcrop&w=384&q=75",
+      "loaded": true
+    },
+    {
+      "url": "http://localhost:3001/_next/image?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1543286386-2e659306cd6c%3Fw%3D1600%26q%3D70%26auto%3Dformat%26fit%3Dcrop&w=384&q=75",
+      "loaded": true
+    }
+  ],
+  "errors": [],
+  "editor_login": true,
+  "rich_text_editor": true
+}

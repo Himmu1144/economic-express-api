@@ -1,0 +1,15 @@
+.env
+.env.*
+!.env.example
+.venv/
+__pycache__/
+*.py[cod]
+*.sqlite3
+staticfiles/
+media/
+.pytest_cache/
+.neon
+node_modules/
+
+.demo-login.json
+.ruff_cache/

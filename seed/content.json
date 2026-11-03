@@ -1,0 +1,3167 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "order": 1,
+      "name": "Markets",
+      "slug": "markets",
+      "description": "Sensex, Nifty, stocks, commodities and the rupee: what moved and why."
+    },
+    {
+      "id": 2,
+      "order": 2,
+      "name": "Economy",
+      "slug": "economy",
+      "description": "Growth, inflation, jobs, trade and policy, explained for every reader."
+    },
+    {
+      "id": 3,
+      "order": 3,
+      "name": "Companies",
+      "slug": "companies",
+      "description": "Results, deals and the businesses shaping India's economy."
+    },
+    {
+      "id": 4,
+      "order": 4,
+      "name": "IPO",
+      "slug": "ipo",
+      "description": "Upcoming listings, subscription numbers and what to check before you apply."
+    },
+    {
+      "id": 5,
+      "order": 5,
+      "name": "Personal Finance",
+      "slug": "personal-finance",
+      "description": "Tax, savings, loans, gold and investing, made simple."
+    },
+    {
+      "id": 6,
+      "order": 6,
+      "name": "Startups",
+      "slug": "startups",
+      "description": "Funding, founders and India's fastest-growing new companies."
+    },
+    {
+      "id": 7,
+      "order": 7,
+      "name": "Tech",
+      "slug": "tech",
+      "description": "Digital payments, AI and the technology changing how India does business."
+    },
+    {
+      "id": 8,
+      "order": 8,
+      "name": "World",
+      "slug": "world",
+      "description": "Global markets and the world economy, and what they mean for India."
+    },
+    {
+      "id": 9,
+      "order": 9,
+      "name": "Opinion",
+      "slug": "opinion",
+      "description": "Columns and analysis from our writers and guest contributors."
+    }
+  ],
+  "articles": [
+    {
+      "author": {
+        "name": "Economic.Express Desk",
+        "avatar": ""
+      },
+      "is_breaking": true,
+      "is_featured": true,
+      "is_editors_pick": false,
+      "is_opinion": false,
+      "id": 2,
+      "slug": "sensex-jumps-crude-slides",
+      "title": "Sensex jumps 1,200 points as crude slides below $72 and banks lead a broad rally",
+      "summary": "Falling oil prices eased inflation worries, pulling foreign investors back into Indian equities. Nifty closed above 23,800 for the first time in three weeks.",
+      "cover_image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=1600&q=70&auto=format&fit=crop",
+      "cover_caption": "Benchmark indices posted their best single-day gain in a month.",
+      "category": {
+        "name": "Markets",
+        "slug": "markets"
+      },
+      "published_at": "2026-11-03T15:40:00+05:30",
+      "reading_time": 4,
+      "views": 6120,
+      "body_html": "\n<p>Indian shares posted their best day in a month on Tuesday as a slide in crude oil prices revived hopes of lower inflation and steady interest rates. The BSE Sensex closed 1,225 points higher at 76,917.85, while the NSE Nifty 50 ended at 23,810.85, up 1.58%.</p>\n<p>Brent crude dropped below $72 a barrel for the first time in three weeks after major producers signalled higher output. India imports more than 85% of the oil it uses, so cheaper crude eases pressure on prices, the rupee and the government's subsidy bill.</p>\n<h2>Banks and autos lead</h2>\n<p>Banking stocks did most of the heavy lifting. The Bank Nifty gained almost 1%, with state-run lenders outperforming on hopes that falling bad loans will lift profits further. Carmakers also rallied, as lower fuel prices tend to support demand for vehicles.</p>\n<blockquote>Cheaper oil is the single biggest relief for the Indian market right now. It helps inflation, the currency and corporate margins at once.</blockquote>\n<p>Foreign institutional investors were net buyers of about ₹4,200 crore, according to provisional exchange data, reversing six weeks of steady selling.</p>\n<h2>What to watch next</h2>\n<ul>\n<li>Monthly inflation data due next week, which will shape the RBI's December decision.</li>\n<li>Quarterly results from large IT and consumer companies.</li>\n<li>Whether crude holds below $72 as winter demand picks up.</li>\n</ul>\n<p>Analysts cautioned that a single strong session does not change the trend on its own, and advised investors to stay diversified rather than chase the rally.</p>",
+      "tags": [
+        {
+          "name": "Sensex",
+          "slug": "sensex"
+        },
+        {
+          "name": "Nifty",
+          "slug": "nifty"
+        },
+        {
+          "name": "Crude oil",
+          "slug": "crude-oil"
+        },
+        {
+          "name": "FII",
+          "slug": "fii"
+        }
+      ],
+      "meta_title": "Sensex jumps 1,200 points as crude slides below $72 and banks lead a broad rally",
+      "meta_description": "Falling oil prices eased inflation worries, pulling foreign investors back into Indian equities. Nifty closed above 23,800 for the first time in three weeks.",
+      "related": [
+        {
+          "author": {
+            "name": "Economic.Express Desk",
+            "avatar": ""
+          },
+          "is_breaking": false,
+          "is_featured": false,
+          "is_editors_pick": false,
+          "is_opinion": false,
+          "id": 11,
+          "slug": "fiis-turn-net-buyers",
+          "title": "FIIs turn net buyers for the first time in six weeks",
+          "summary": "Foreign investors bought ₹4,200 crore of Indian shares on Monday, betting on cheaper oil and steady rates.",
+          "cover_image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=1600&q=70&auto=format&fit=crop",
+          "cover_caption": "",
+          "category": {
+            "name": "Markets",
+            "slug": "markets"
+          },
+          "published_at": "2026-11-03T12:40:00+05:30",
+          "reading_time": 3,
+          "views": 1430
+        },
+        {
+          "author": {
+            "name": "Economic.Express Desk",
+            "avatar": ""
+          },
+          "is_breaking": false,
+          "is_featured": false,
+          "is_editors_pick": false,
+          "is_opinion": false,
+          "id": 12,
+          "slug": "midcap-index-record",
+          "title": "Midcap index hits a record, but analysts warn valuations look stretched",
+          "summary": "The Nifty Midcap 100 trades at 32 times earnings, well above its five-year average.",
+          "cover_image": "https://images.unsplash.com/photo-1543286386-2e659306cd6c?w=1600&q=70&auto=format&fit=crop",
+          "cover_caption": "",
+          "category": {
+            "name": "Markets",
+            "slug": "markets"
+          },
+          "published_at": "2026-11-02T16:05:00+05:30",
+          "reading_time": 4,
+          "views": 1210
+        },
+        {
+          "author": {
+            "name": "Economic.Express Desk",
+            "avatar": ""
+          },
+          "is_breaking": false,
+          "is_featured": false,
+          "is_editors_pick": false,
+          "is_opinion": false,
+          "id": 13,
+          "slug": "psu-banks-lead",
+          "title": "PSU banks lead gains as bad loans fall to a decade low",
+          "summary": "Gross NPAs at state-run lenders dropped below 3% for the first time since 2015.",
+          "cover_image": "https://images.unsplash.com/photo-1593672715438-d88a70629abe?w=1600&q=70&auto=format&fit=crop",
+          "cover_caption": "",
+          "category": {
+            "name": "Markets",
+            "slug": "markets"
+          },
+          "published_at": "2026-11-02T11:20:00+05:30",
+          "reading_time": 3,
+          "views": 980
+        }
+      ],
+      "key_points": [
+        "Sensex rose 1,225 points (1.6%) and Nifty closed above 23,800.",
+        "Crude fell below $72 a barrel, easing inflation and import-bill worries.",
+        "Banks and autos led; foreign investors were net buyers."
+      ]
+    },
+    {
+      "author": {
+        "name": "Economic.Express Desk",
+        "avatar": ""
+      },
+      "is_breaking": true,
+      "is_featured": true,
+      "is_editors_pick": false,
+      "is_opinion": false,
+      "id": 1,
+      "slug": "rbi-holds-repo-rate",
+      "title": "RBI holds repo rate at 5.5%, signals room for a cut if inflation keeps cooling",
+      "summary": "The Monetary Policy Committee voted 5-1 to keep rates unchanged, while lowering its inflation forecast for the year.",
+      "cover_image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=1600&q=70&auto=format&fit=crop",
+      "cover_caption": "",
+      "category": {
+        "name": "Economy",
+        "slug": "economy"
+      },
+      "published_at": "2026-11-03T10:05:00+05:30",
+      "reading_time": 5,
+      "views": 4820,
+      "body_html": "\n<p>The Reserve Bank of India kept its key lending rate unchanged at 5.5% on Tuesday, but its tone suggested a cut could come as early as December if inflation keeps easing.</p>\n<p>Five of the six members of the Monetary Policy Committee voted to hold the repo rate, the rate at which the RBI lends to banks. One member voted for a 0.25 percentage point cut.</p>\n<h2>Inflation forecast lowered</h2>\n<p>The central bank cut its inflation forecast for the financial year to 3.4% from 3.7%, citing a good monsoon harvest and softer global commodity prices. Retail inflation has stayed below the RBI's 4% target for four straight months.</p>\n<blockquote>Price stability is within reach. If the trend holds, policy has space to support growth.</blockquote>\n<h2>What it means for you</h2>\n<p>For borrowers, home and car loan rates are unlikely to change this month. Fixed deposit rates, which several banks trimmed last week, may stay where they are until the December meeting.</p>\n<p>Economists now expect one or two cuts before March, depending on food prices and the path of the rupee.</p>",
+      "tags": [
+        {
+          "name": "RBI",
+          "slug": "rbi"
+        },
+        {
+          "name": "Repo rate",
+          "slug": "repo-rate"
+        },
+        {
+          "name": "Inflation",
+          "slug": "inflation"
+        },
+        {
+          "name": "Monetary policy",
+          "slug": "monetary-policy"
+        }
+      ],
+      "meta_title": "RBI holds repo rate at 5.5%, signals room for a cut if inflation keeps cooling",
+      "meta_description": "The Monetary Policy Committee voted 5-1 to keep rates unchanged, while lowering its inflation forecast for the year.",
+      "related": [
+        {
+          "author": {
+            "name": "Economic.Express Desk",
+            "avatar": ""
+          },
+          "is_breaking": false,
+          "is_featured": false,
+          "is_editors_pick": false,
+          "is_opinion": false,
+          "id": 15,
+          "slug": "gst-collections-october",
+          "title": "GST collections rise 9% to ₹1.96 lakh crore in October",
+          "summary": "Festive spending and better compliance lifted collections across most states.",
+          "cover_image": "https://images.unsplash.com/photo-1541354329998-f4d9a9f9297f?w=1600&q=70&auto=format&fit=crop",
+          "cover_caption": "",
+          "category": {
+            "name": "Economy",
+            "slug": "economy"
+          },
+          "published_at": "2026-11-01T14:00:00+05:30",
+          "reading_time": 3,
+          "views": 1650
+        },
+        {
+          "author": {
+            "name": "Economic.Express Desk",
+            "avatar": ""
+          },
+          "is_breaking": false,
+          "is_featured": false,
+          "is_editors_pick": false,
+          "is_opinion": false,
+          "id": 16,
+          "slug": "retail-inflation-eases",
+          "title": "Retail inflation eases to 3.1%, the lowest in 14 months",
+          "summary": "Cheaper vegetables and pulses pulled food inflation down sharply.",
+          "cover_image": "https://images.unsplash.com/photo-1556740758-90de374c12ad?w=1600&q=70&auto=format&fit=crop",
+          "cover_caption": "",
+          "category": {
+            "name": "Economy",
+            "slug": "economy"
+          },
+          "published_at": "2026-10-31T17:30:00+05:30",
+          "reading_time": 4,
+          "views": 1520
+        },
+        {
+          "author": {
+            "name": "Economic.Express Desk",
+            "avatar": ""
+          },
+          "is_breaking": false,
+          "is_featured": false,
+          "is_editors_pick": false,
+          "is_opinion": false,
+          "id": 17,
+          "slug": "exports-electronics",
+          "title": "Exports grow 6% as electronics shipments surge",
+          "summary": "Smartphones are now India's third-largest export category.",
+          "cover_image": "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?w=1600&q=70&auto=format&fit=crop",
+          "cover_caption": "",
+          "category": {
+            "name": "Economy",
+            "slug": "economy"
+          },
+          "published_at": "2026-10-31T11:00:00+05:30",
+          "reading_time": 3,
+          "views": 1120
+        }
+      ],
+      "key_points": [
+        "The repo rate stays at 5.5%; the vote was 5-1.",
+        "The inflation forecast for the year was cut to 3.4%.",
+        "The governor said there is room to cut if prices keep cooling."
+      ]
+    },
+    {
+      "author": {
+        "name": "Economic.Express Desk",
+        "avatar": ""
+      },
+      "is_breaking": false,
+      "is_featured": false,
+      "is_editors_pick": false,
+      "is_opinion": false,
+      "id": 3,
+      "slug": "gold-slips-from-record",
+      "title": "Gold slips ₹1,100 from its record as the dollar steadies. Is it time to buy?",
+      "summary": "Jewellers report a pickup in wedding-season demand as prices cool from last week's high.",
+      "cover_image": "https://images.unsplash.com/photo-1610375461246-83df859d849d?w=1600&q=70&auto=format&fit=crop",
+      "cover_caption": "",
+      "category": {
+        "name": "Personal Finance",
+        "slug": "personal-finance"
+      },
+      "published_at": "2026-11-03T13:20:00+05:30",
+      "reading_time": 3,
+      "views": 3940,
+      "body_html": "\n<p>Gold prices in India eased by about ₹1,100 per 10 grams this week, slipping from last week's record as the US dollar steadied and investors booked profits.</p>\n<p>Jewellers in Mumbai and Jaipur said the pullback has brought buyers back ahead of the wedding season, when demand usually peaks.</p>\n<h2>Should you buy now?</h2>\n<p>Financial planners generally suggest keeping gold at 5% to 10% of a portfolio, mainly as a hedge rather than a bet on short-term price moves. Buying in small amounts over time, through gold ETFs or digital gold, avoids the risk of investing everything at a peak.</p>\n<p>Making charges and GST can add 10% or more to the cost of jewellery, so investors looking only for returns often prefer coins, bars or ETFs.</p>",
+      "tags": [
+        {
+          "name": "Gold",
+          "slug": "gold"
+        },
+        {
+          "name": "Jewellery",
+          "slug": "jewellery"
+        },
+        {
+          "name": "Dollar",
+          "slug": "dollar"
+        }
+      ],
+      "meta_title": "Gold slips ₹1,100 from its record as the dollar steadies. Is it time to buy?",
+      "meta_description": "Jewellers report a pickup in wedding-season demand as prices cool from last week's high.",
+      "related": [
+        {
+          "author": {
+            "name": "Economic.Express Desk",
+            "avatar": ""
+          },
+          "is_breaking": false,
+          "is_featured": false,
+          "is_editors_pick": true,
+          "is_opinion": false,
+          "id": 7,
+          "slug": "new-tax-regime-explained",
+          "title": "Old or new tax regime? A simple way to decide before you file",
+          "summary": "Three questions about your deductions tell you which regime saves more.",
+          "cover_image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=1600&q=70&auto=format&fit=crop",
+          "cover_caption": "",
+          "category": {
+            "name": "Personal Finance",
+            "slug": "personal-finance"
+          },
+          "published_at": "2026-11-01T09:00:00+05:30",
+          "reading_time": 6,
+          "views": 2410
+        },
+        {
+          "author": {
+            "name": "Economic.Express Desk",
+            "avatar": ""
+          },
+          "is_breaking": false,
+          "is_featured": false,
+          "is_editors_pick": true,
+          "is_opinion": false,
+          "id": 10,
+          "slug": "what-is-sip-explained",
+          "title": "Explained: how a ₹5,000 monthly SIP can grow over 15 years",
+          "summary": "Compounding, rupee-cost averaging and why starting early matters more than timing the market.",
+          "cover_image": "https://images.unsplash.com/photo-1604594849809-dfedbc827105?w=1600&q=70&auto=format&fit=crop",
+          "cover_caption": "",
+          "category": {
+            "name": "Personal Finance",
+            "slug": "personal-finance"
+          },
+          "published_at": "2026-10-31T10:00:00+05:30",
+          "reading_time": 5,
+          "views": 1540
+        },
+        {
+          "author": {
+            "name": "Economic.Express Desk",
+            "avatar": ""
+          },
+          "is_breaking": false,
+          "is_featured": false,
+          "is_editors_pick": false,
+          "is_opinion": false,
+          "id": 23,
+          "slug": "fd-rates-cut",
+          "title": "Banks trim fixed deposit rates. Should you lock in now?",
+          "summary": "Several lenders cut 1-year FD rates by up to 0.25 percentage points this week.",
+          "cover_image": "https://images.unsplash.com/photo-1565514020179-026b92b84bb6?w=1600&q=70&auto=format&fit=crop",
+          "cover_caption": "",
+          "category": {
+            "name": "Personal Finance",
+            "slug": "personal-finance"
+          },
+          "published_at": "2026-11-02T09:30:00+05:30",
+          "reading_time": 4,
+          "views": 1840
+        }
+      ],
+      "key_points": [
+        "Gold is down about ₹1,100 per 10 grams from last week's record.",
+        "A steadier dollar and profit-taking pulled prices back.",
+        "Wedding-season buying has picked up as prices cool."
+      ]
+    },
+    {
+      "author": {
+        "name": "Economic.Express Desk",
+        "avatar": ""
+      },
+      "is_breaking": false,
+      "is_featured": false,
+      "is_editors_pick": true,
+      "is_opinion": false,
+      "id": 4,
+      "slug": "ipo-pipeline-november",
+      "title": "Five IPOs worth ₹12,000 crore open this month. Here's what to watch",
+      "summary": "A fintech, two manufacturers and a hospital chain lead a busy November calendar.",
+      "cover_image": "https://images.unsplash.com/photo-1612178991541-b48cc8e92a4d?w=1600&q=70&auto=format&fit=crop",
+      "cover_caption": "",
+      "category": {
+        "name": "IPO",
+        "slug": "ipo"
+      },
+      "published_at": "2026-11-03T11:45:00+05:30",
+      "reading_time": 4,
+      "views": 3510,
+      "body_html": "<p>A fintech, two manufacturers and a hospital chain lead a busy November calendar.</p><p>Investors should read the offer document, compare valuations with listed peers and avoid applying only for quick listing gains.</p>",
+      "tags": [
+        {
+          "name": "IPO",
+          "slug": "ipo"
+        }
+      ],
+      "meta_title": "Five IPOs worth ₹12,000 crore open this month. Here's what to watch",
+      "meta_description": "A fintech, two manufacturers and a hospital chain lead a busy November calendar.",
+      "related": [
+        {
+          "author": {
+            "name": "Economic.Express Desk",
+            "avatar": ""
+          },
+          "is_breaking": true,
+          "is_featured": true,
+          "is_editors_pick": false,
+          "is_opinion": false,
+          "id": 2,
+          "slug": "sensex-jumps-crude-slides",
+          "title": "Sensex jumps 1,200 points as crude slides below $72 and banks lead a broad rally",
+          "summary": "Falling oil prices eased inflation worries, pulling foreign investors back into Indian equities. Nifty closed above 23,800 for the first time in three weeks.",
+          "cover_image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=1600&q=70&auto=format&fit=crop",
+          "cover_caption": "Benchmark indices posted their best single-day gain in a month.",
+          "category": {
+            "name": "Markets",
+            "slug": "markets"
+          },
+          "published_at": "2026-11-03T15:40:00+05:30",
+          "reading_time": 4,
+          "views": 6120
+        },
+        {
+          "author": {
+            "name": "Economic.Express Desk",
+            "avatar": ""
+          },
+          "is_breaking": true,
+          "is_featured": true,
+          "is_editors_pick": false,
+          "is_opinion": false,
+          "id": 1,
+          "slug": "rbi-holds-repo-rate",
+          "title": "RBI holds repo rate at 5.5%, signals room for a cut if inflation keeps cooling",
+          "summary": "The Monetary Policy Committee voted 5-1 to keep rates unchanged, while lowering its inflation forecast for the year.",
+          "cover_image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=1600&q=70&auto=format&fit=crop",
+          "cover_caption": "",
+          "category": {
+            "name": "Economy",
+            "slug": "economy"
+          },
+          "published_at": "2026-11-03T10:05:00+05:30",
+          "reading_time": 5,
+          "views": 4820
+        },
+        {
+          "author": {
+            "name": "Economic.Express Desk",
+            "avatar": ""
+          },
+          "is_breaking": false,
+          "is_featured": false,
+          "is_editors_pick": false,
+          "is_opinion": false,
+          "id": 3,
+          "slug": "gold-slips-from-record",
+          "title": "Gold slips ₹1,100 from its record as the dollar steadies. Is it time to buy?",
+          "summary": "Jewellers report a pickup in wedding-season demand as prices cool from last week's high.",
+          "cover_image": "https://images.unsplash.com/photo-1610375461246-83df859d849d?w=1600&q=70&auto=format&fit=crop",
+          "cover_caption": "",
+          "category": {
+            "name": "Personal Finance",
+            "slug": "personal-finance"
+          },
+          "published_at": "2026-11-03T13:20:00+05:30",
+          "reading_time": 3,
+          "views": 3940
+        }
+      ]
+    },
+    {
+      "author": {
+        "name": "Economic.Express Desk",
+        "avatar": ""
+      },
+      "is_breaking": false,
+      "is_featured": false,
+      "is_editors_pick": false,
+      "is_opinion": false,
+      "id": 5,
+      "slug": "startup-funding-rebounds",
+      "title": "Startup funding rebounds to a two-year high as AI and climate tech draw investors",
+      "summary": "Indian startups raised $3.4 billion in October, led by late-stage rounds in Bengaluru and Gurugram.",
+      "cover_image": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=1600&q=70&auto=format&fit=crop",
+      "cover_caption": "",
+      "category": {
+        "name": "Startups",
+        "slug": "startups"
+      },
+      "published_at": "2026-11-02T18:10:00+05:30",
+      "reading_time": 4,
+      "views": 2870,
+      "body_html": "<p>Indian startups raised $3.4 billion in October, led by late-stage rounds in Bengaluru and Gurugram.</p><p>Founders and investors say the next year will reward companies with clear paths to profit over growth at any cost.</p>",
+      "tags": [
+        {
+          "name": "Startups",
+          "slug": "startups"
+        }
+      ],
+      "meta_title": "Startup funding rebounds to a two-year high as AI and climate tech draw investors",
+      "meta_description": "Indian startups raised $3.4 billion in October, led by late-stage rounds in Bengaluru and Gurugram.",
+      "related": [
+        {
+          "author": {
+            "name": "Economic.Express Desk",
+            "avatar": ""
+          },
+          "is_breaking": false,
+          "is_featured": false,
+          "is_editors_pick": false,
+          "is_opinion": false,
+          "id": 25,
+          "slug": "saas-startup-profitable",
+          "title": "Bengaluru SaaS startup turns profitable a year ahead of its IPO",
+          "summary": "The company now earns 70% of its revenue from customers outside India.",
+          "cover_image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=1600&q=70&auto=format&fit=crop",
+          "cover_caption": "",
+          "category": {
+            "name": "Startups",
+            "slug": "startups"
+          },
+          "published_at": "2026-11-01T16:40:00+05:30",
+          "reading_time": 4,
+          "views": 1060
+        },
+        {
+          "author": {
+            "name": "Economic.Express Desk",
+            "avatar": ""
+          },
+          "is_breaking": false,
+          "is_featured": false,
+          "is_editors_pick": false,
+          "is_opinion": false,
+          "id": 26,
+          "slug": "women-led-startups",
+          "title": "Women-led startups raise a record $1.1 billion this year",
+          "summary": "Health, education and consumer brands lead the list.",
+          "cover_image": "https://images.unsplash.com/photo-1600880292203-757bb62b4baf?w=1600&q=70&auto=format&fit=crop",
+          "cover_caption": "",
+          "category": {
+            "name": "Startups",
+            "slug": "startups"
+          },
+          "published_at": "2026-10-31T12:00:00+05:30",
+          "reading_time": 3,
+          "views": 920
+        },
+        {
+          "author": {
+            "name": "Economic.Express Desk",
+            "avatar": ""
+          },
+          "is_breaking": false,
+          "is_featured": false,
+          "is_editors_pick": false,
+          "is_opinion": false,
+          "id": 27,
+          "slug": "quick-commerce-small-cities",
+          "title": "Quick-commerce startups bet on smaller cities for growth",
+          "summary": "Ten-minute delivery is expanding to 60 tier-2 cities by March.",
+          "cover_image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=1600&q=70&auto=format&fit=crop",
+          "cover_caption": "",
+          "category": {
+            "name": "Startups",
+            "slug": "startups"
+          },
+          "published_at": "2026-10-30T18:30:00+05:30",
+          "reading_time": 3,
+          "views": 810
+        }
+      ]
+    },
+    {
+      "author": {
+        "name": "Economic.Express Desk",
+        "avatar": ""
+      },
+      "is_breaking": false,
+      "is_featured": false,
+      "is_editors_pick": false,
+      "is_opinion": false,
+      "id": 6,
+      "slug": "upi-crosses-20-billion",
+      "title": "UPI crosses 20 billion monthly transactions for the first time",
+      "summary": "Small-ticket payments under ₹500 now make up more than half of all UPI volume.",
+      "cover_image": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=1600&q=70&auto=format&fit=crop",
+      "cover_caption": "",
+      "category": {
+        "name": "Tech",
+        "slug": "tech"
+      },
+      "published_at": "2026-11-02T12:30:00+05:30",
+      "reading_time": 3,
+      "views": 2650,
+      "body_html": "<p>Small-ticket payments under ₹500 now make up more than half of all UPI volume.</p><p>The shift is changing how millions of Indians pay, save and borrow, and regulators are watching closely.</p>",
+      "tags": [
+        {
+          "name": "Tech",
+          "slug": "tech"
+        }
+      ],
+      "meta_title": "UPI crosses 20 billion monthly transactions for the first time",
+      "meta_description": "Small-ticket payments under ₹500 now make up more than half of all UPI volume.",
+      "related": [
+        {
+          "author": {
+            "name": "Economic.Express Desk",
+            "avatar": ""
+          },
+          "is_breaking": true,
+          "is_featured": true,
+          "is_editors_pick": false,
+          "is_opinion": false,
+          "id": 2,
+          "slug": "sensex-jumps-crude-slides",
+          "title": "Sensex jumps 1,200 points as crude slides below $72 and banks lead a broad rally",
+          "summary": "Falling oil prices eased inflation worries, pulling foreign investors back into Indian equities. Nifty closed above 23,800 for the first time in three weeks.",
+          "cover_image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=1600&q=70&auto=format&fit=crop",
+          "cover_caption": "Benchmark indices posted their best single-day gain in a month.",
+          "category": {
+            "name": "Markets",
+            "slug": "markets"
+          },
+          "published_at": "2026-11-03T15:40:00+05:30",
+          "reading_time": 4,
+          "views": 6120
+        },
+        {
+          "author": {
+            "name": "Economic.Express Desk",
+            "avatar": ""
+          },
+          "is_breaking": true,
+          "is_featured": true,
+          "is_editors_pick": false,
+          "is_opinion": false,
+          "id": 1,
+          "slug": "rbi-holds-repo-rate",
+          "title": "RBI holds repo rate at 5.5%, signals room for a cut if inflation keeps cooling",
+          "summary": "The Monetary Policy Committee voted 5-1 to keep rates unchanged, while lowering its inflation forecast for the year.",
+          "cover_image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=1600&q=70&auto=format&fit=crop",
+          "cover_caption": "",
+          "category": {
+            "name": "Economy",
+            "slug": "economy"
+          },
+          "published_at": "2026-11-03T10:05:00+05:30",
+          "reading_time": 5,
+          "views": 4820
+        },
+        {
+          "author": {
+            "name": "Economic.Express Desk",
+            "avatar": ""
+          },
+          "is_breaking": false,
+          "is_featured": false,
+          "is_editors_pick": false,
+          "is_opinion": false,
+          "id": 3,
+          "slug": "gold-slips-from-record",
+          "title": "Gold slips ₹1,100 from its record as the dollar steadies. Is it time to buy?",
+          "summary": "Jewellers report a pickup in wedding-season demand as prices cool from last week's high.",
+          "cover_image": "https://images.unsplash.com/photo-1610375461246-83df859d849d?w=1600&q=70&auto=format&fit=crop",
+          "cover_caption": "",
+          "category": {
+            "name": "Personal Finance",
+            "slug": "personal-finance"
+          },
+          "published_at": "2026-11-03T13:20:00+05:30",
+          "reading_time": 3,
+          "views": 3940
+        }
+      ]
+    },
+    {
+      "author": {
+        "name": "Economic.Express Desk",
+        "avatar": ""
+      },
+      "is_breaking": false,
+      "is_featured": false,
+      "is_editors_pick": true,
+      "is_opinion": false,
+      "id": 7,
+      "slug": "new-tax-regime-explained",
+      "title": "Old or new tax regime? A simple way to decide before you file",
+      "summary": "Three questions about your deductions tell you which regime saves more.",
+      "cover_image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=1600&q=70&auto=format&fit=crop",
+      "cover_caption": "",
+      "category": {
+        "name": "Personal Finance",
+        "slug": "personal-finance"
+      },
+      "published_at": "2026-11-01T09:00:00+05:30",
+      "reading_time": 6,
+      "views": 2410,
+      "body_html": "\n<p>Every year, salaried taxpayers in India choose between the old and new income tax regimes. The right choice depends mostly on how much you claim in deductions.</p>\n<h2>Ask yourself three questions</h2>\n<ul>\n<li><b>Do you pay rent and claim HRA?</b> Large HRA claims favour the old regime.</li>\n<li><b>Do you have a home loan?</b> Interest deductions of up to ₹2 lakh can tip the balance.</li>\n<li><b>Do you fill your ₹1.5 lakh Section 80C limit?</b> If not, the new regime is often better.</li>\n</ul>\n<p>If your total deductions are small, the new regime's lower rates and higher standard deduction usually mean less tax. Use your employer's calculator or the income tax portal to compare both before you file.</p>",
+      "tags": [
+        {
+          "name": "Income tax",
+          "slug": "income-tax"
+        },
+        {
+          "name": "Tax regime",
+          "slug": "tax-regime"
+        },
+        {
+          "name": "Personal finance",
+          "slug": "personal-finance"
+        }
+      ],
+      "meta_title": "Old or new tax regime? A simple way to decide before you file",
+      "meta_description": "Three questions about your deductions tell you which regime saves more.",
+      "related": [
+        {
+          "author": {
+            "name": "Economic.Express Desk",
+            "avatar": ""
+          },
+          "is_breaking": false,
+          "is_featured": false,
+          "is_editors_pick": false,
+          "is_opinion": false,
+          "id": 3,
+          "slug": "gold-slips-from-record",
+          "title": "Gold slips ₹1,100 from its record as the dollar steadies. Is it time to buy?",
+          "summary": "Jewellers report a pickup in wedding-season demand as prices cool from last week's high.",
+          "cover_image": "https://images.unsplash.com/photo-1610375461246-83df859d849d?w=1600&q=70&auto=format&fit=crop",
+          "cover_caption": "",
+          "category": {
+            "name": "Personal Finance",
+            "slug": "personal-finance"
+          },
+          "published_at": "2026-11-03T13:20:00+05:30",
+          "reading_time": 3,
+          "views": 3940
+        },
+        {
+          "author": {
+            "name": "Economic.Express Desk",
+            "avatar": ""
+          },
+          "is_breaking": false,
+          "is_featured": false,
+          "is_editors_pick": true,
+          "is_opinion": false,
+          "id": 10,
+          "slug": "what-is-sip-explained",
+          "title": "Explained: how a ₹5,000 monthly SIP can grow over 15 years",
+          "summary": "Compounding, rupee-cost averaging and why starting early matters more than timing the market.",
+          "cover_image": "https://images.unsplash.com/photo-1604594849809-dfedbc827105?w=1600&q=70&auto=format&fit=crop",
+          "cover_caption": "",
+          "category": {
+            "name": "Personal Finance",
+            "slug": "personal-finance"
+          },
+          "published_at": "2026-10-31T10:00:00+05:30",
+          "reading_time": 5,
+          "views": 1540
+        },
+        {
+          "author": {
+            "name": "Economic.Express Desk",
+            "avatar": ""
+          },
+          "is_breaking": false,
+          "is_featured": false,
+          "is_editors_pick": false,
+          "is_opinion": false,
+          "id": 23,
+          "slug": "fd-rates-cut",
+          "title": "Banks trim fixed deposit rates. Should you lock in now?",
+          "summary": "Several lenders cut 1-year FD rates by up to 0.25 percentage points this week.",
+          "cover_image": "https://images.unsplash.com/photo-1565514020179-026b92b84bb6?w=1600&q=70&auto=format&fit=crop",
+          "cover_caption": "",
+          "category": {
+            "name": "Personal Finance",
+            "slug": "personal-finance"
+          },
+          "published_at": "2026-11-02T09:30:00+05:30",
+          "reading_time": 4,
+          "views": 1840
+        }
+      ],
+      "key_points": [
+        "The new regime has lower rates but almost no deductions.",
+        "If your deductions are large, the old regime may still save more.",
+        "You can usually switch each year if you are salaried."
+      ]
+    },
+    {
+      "author": {
+        "name": "Economic.Express Desk",
+        "avatar": ""
+      },
+      "is_breaking": false,
+      "is_featured": false,
+      "is_editors_pick": false,
+      "is_opinion": false,
+      "id": 8,
+      "slug": "crude-oil-opec-output",
+      "title": "Crude falls for a fourth day as OPEC+ signals higher output",
+      "summary": "Cheaper oil is good news for India's import bill and the rupee.",
+      "cover_image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=1600&q=70&auto=format&fit=crop",
+      "cover_caption": "",
+      "category": {
+        "name": "World",
+        "slug": "world"
+      },
+      "published_at": "2026-11-03T08:15:00+05:30",
+      "reading_time": 3,
+      "views": 1980,
+      "body_html": "<p>Cheaper oil is good news for India's import bill and the rupee.</p><p>For India, the global picture matters most through oil prices, export demand and foreign investment flows.</p>",
+      "tags": [
+        {
+          "name": "World",
+          "slug": "world"
+        }
+      ],
+      "meta_title": "Crude falls for a fourth day as OPEC+ signals higher output",
+      "meta_description": "Cheaper oil is good news for India's import bill and the rupee.",
+      "related": [
+        {
+          "author": {
+            "name": "Economic.Express Desk",
+            "avatar": ""
+          },
+          "is_breaking": true,
+          "is_featured": true,
+          "is_editors_pick": false,
+          "is_opinion": false,
+          "id": 2,
+          "slug": "sensex-jumps-crude-slides",
+          "title": "Sensex jumps 1,200 points as crude slides below $72 and banks lead a broad rally",
+          "summary": "Falling oil prices eased inflation worries, pulling foreign investors back into Indian equities. Nifty closed above 23,800 for the first time in three weeks.",
+          "cover_image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=1600&q=70&auto=format&fit=crop",
+          "cover_caption": "Benchmark indices posted their best single-day gain in a month.",
+          "category": {
+            "name": "Markets",
+            "slug": "markets"
+          },
+          "published_at": "2026-11-03T15:40:00+05:30",
+          "reading_time": 4,
+          "views": 6120
+        },
+        {
+          "author": {
+            "name": "Economic.Express Desk",
+            "avatar": ""
+          },
+          "is_breaking": true,
+          "is_featured": true,
+          "is_editors_pick": false,
+          "is_opinion": false,
+          "id": 1,
+          "slug": "rbi-holds-repo-rate",
+          "title": "RBI holds repo rate at 5.5%, signals room for a cut if inflation keeps cooling",
+          "summary": "The Monetary Policy Committee voted 5-1 to keep rates unchanged, while lowering its inflation forecast for the year.",
+          "cover_image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=1600&q=70&auto=format&fit=crop",
+          "cover_caption": "",
+          "category": {
+            "name": "Economy",
+            "slug": "economy"
+          },
+          "published_at": "2026-11-03T10:05:00+05:30",
+          "reading_time": 5,
+          "views": 4820
+        },
+        {
+          "author": {
+            "name": "Economic.Express Desk",
+            "avatar": ""
+          },
+          "is_breaking": false,
+          "is_featured": false,
+          "is_editors_pick": false,
+          "is_opinion": false,
+          "id": 3,
+          "slug": "gold-slips-from-record",
+          "title": "Gold slips ₹1,100 from its record as the dollar steadies. Is it time to buy?",
+          "summary": "Jewellers report a pickup in wedding-season demand as prices cool from last week's high.",
+          "cover_image": "https://images.unsplash.com/photo-1610375461246-83df859d849d?w=1600&q=70&auto=format&fit=crop",
+          "cover_caption": "",
+          "category": {
+            "name": "Personal Finance",
+            "slug": "personal-finance"
+          },
+          "published_at": "2026-11-03T13:20:00+05:30",
+          "reading_time": 3,
+          "views": 3940
+        }
+      ]
+    },
+    {
+      "author": {
+        "name": "Ananya Rao",
+        "avatar": ""
+      },
+      "is_breaking": false,
+      "is_featured": false,
+      "is_editors_pick": false,
+      "is_opinion": true,
+      "id": 9,
+      "slug": "india-growth-story-opinion",
+      "title": "India's growth story needs jobs, not just GDP headlines",
+      "summary": "Strong numbers mean little if young graduates can't find work that matches their skills.",
+      "cover_image": "https://images.unsplash.com/photo-1579532537598-459ecdaf39cc?w=1600&q=70&auto=format&fit=crop",
+      "cover_caption": "",
+      "category": {
+        "name": "Opinion",
+        "slug": "opinion"
+      },
+      "published_at": "2026-11-02T08:00:00+05:30",
+      "reading_time": 5,
+      "views": 1760,
+      "body_html": "\n<p>India is once again the world's fastest-growing large economy. But for millions of young graduates, the headline number means little if the jobs they trained for are not there.</p>\n<p>Growth has been led by capital-intensive sectors and services that need relatively few workers. Manufacturing, which could absorb large numbers of people, still makes up a modest share of output.</p>\n<blockquote>A growth story that does not create work is a story only half told.</blockquote>\n<p>The fix is not a single scheme. It means easier rules for small factories, better links between colleges and employers, and cities where it is affordable to live near where the jobs are. GDP will keep making headlines. Jobs should make the policy agenda.</p>",
+      "tags": [
+        {
+          "name": "Jobs",
+          "slug": "jobs"
+        },
+        {
+          "name": "GDP",
+          "slug": "gdp"
+        },
+        {
+          "name": "Opinion",
+          "slug": "opinion"
+        }
+      ],
+      "meta_title": "India's growth story needs jobs, not just GDP headlines",
+      "meta_description": "Strong numbers mean little if young graduates can't find work that matches their skills.",
+      "related": [
+        {
+          "author": {
+            "name": "Vikram Mehta",
+            "avatar": ""
+          },
+          "is_breaking": false,
+          "is_featured": false,
+          "is_editors_pick": false,
+          "is_opinion": true,
+          "id": 28,
+          "slug": "opinion-msme-credit",
+          "title": "Small businesses don't need more loans. They need faster payments",
+          "summary": "Delayed invoices from large buyers hurt MSMEs more than high interest rates do.",
+          "cover_image": "https://images.unsplash.com/photo-1556740758-90de374c12ad?w=1600&q=70&auto=format&fit=crop",
+          "cover_caption": "",
+          "category": {
+            "name": "Opinion",
+            "slug": "opinion"
+          },
+          "published_at": "2026-11-01T08:00:00+05:30",
+          "reading_time": 5,
+          "views": 1180
+        },
+        {
+          "author": {
+            "name": "Farah Siddiqui",
+            "avatar": ""
+          },
+          "is_breaking": false,
+          "is_featured": false,
+          "is_editors_pick": false,
+          "is_opinion": true,
+          "id": 29,
+          "slug": "opinion-household-savings",
+          "title": "Why India's household savings rate should worry us more than the fiscal deficit",
+          "summary": "Families are borrowing more for consumption and saving less for the long term.",
+          "cover_image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=1600&q=70&auto=format&fit=crop",
+          "cover_caption": "",
+          "category": {
+            "name": "Opinion",
+            "slug": "opinion"
+          },
+          "published_at": "2026-10-31T08:00:00+05:30",
+          "reading_time": 6,
+          "views": 1020
+        },
+        {
+          "author": {
+            "name": "Economic.Express Desk",
+            "avatar": ""
+          },
+          "is_breaking": true,
+          "is_featured": true,
+          "is_editors_pick": false,
+          "is_opinion": false,
+          "id": 2,
+          "slug": "sensex-jumps-crude-slides",
+          "title": "Sensex jumps 1,200 points as crude slides below $72 and banks lead a broad rally",
+          "summary": "Falling oil prices eased inflation worries, pulling foreign investors back into Indian equities. Nifty closed above 23,800 for the first time in three weeks.",
+          "cover_image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=1600&q=70&auto=format&fit=crop",
+          "cover_caption": "Benchmark indices posted their best single-day gain in a month.",
+          "category": {
+            "name": "Markets",
+            "slug": "markets"
+          },
+          "published_at": "2026-11-03T15:40:00+05:30",
+          "reading_time": 4,
+          "views": 6120
+        }
+      ]
+    },
+    {
+      "author": {
+        "name": "Economic.Express Desk",
+        "avatar": ""
+      },
+      "is_breaking": false,
+      "is_featured": false,
+      "is_editors_pick": true,
+      "is_opinion": false,
+      "id": 10,
+      "slug": "what-is-sip-explained",
+      "title": "Explained: how a ₹5,000 monthly SIP can grow over 15 years",
+      "summary": "Compounding, rupee-cost averaging and why starting early matters more than timing the market.",
+      "cover_image": "https://images.unsplash.com/photo-1604594849809-dfedbc827105?w=1600&q=70&auto=format&fit=crop",
+      "cover_caption": "",
+      "category": {
+        "name": "Personal Finance",
+        "slug": "personal-finance"
+      },
+      "published_at": "2026-10-31T10:00:00+05:30",
+      "reading_time": 5,
+      "views": 1540,
+      "body_html": "\n<p>A systematic investment plan, or SIP, lets you invest a fixed amount in a mutual fund every month. It is one of the simplest ways to build long-term wealth, because it turns saving into a habit and removes the pressure of timing the market.</p>\n<h2>How the numbers add up</h2>\n<p>Suppose you invest ₹5,000 every month for 15 years and earn an average return of 12% a year. You would put in ₹9 lakh in total, and your investment could grow to around ₹25 lakh. The extra ₹16 lakh comes from compounding: returns earning returns of their own.</p>\n<blockquote>Time in the market matters more than timing the market.</blockquote>\n<h2>Why starting early matters</h2>\n<p>Stretch the same SIP to 20 years and the estimated value roughly doubles to about ₹50 lakh, even though you invest only ₹3 lakh more. That is the power of time.</p>\n<h2>Rupee-cost averaging</h2>\n<p>Because you invest the same amount every month, you buy more units when prices are low and fewer when they are high. Over time this smooths out the ups and downs of the market.</p>\n<p>Returns from equity funds are not guaranteed and can be negative in some years. Pick funds that match your goals and how long you can stay invested, and review them once a year.</p>",
+      "tags": [
+        {
+          "name": "SIP",
+          "slug": "sip"
+        },
+        {
+          "name": "Mutual funds",
+          "slug": "mutual-funds"
+        },
+        {
+          "name": "Investing basics",
+          "slug": "investing-basics"
+        }
+      ],
+      "meta_title": "Explained: how a ₹5,000 monthly SIP can grow over 15 years",
+      "meta_description": "Compounding, rupee-cost averaging and why starting early matters more than timing the market.",
+      "related": [
+        {
+          "author": {
+            "name": "Economic.Express Desk",
+            "avatar": ""
+          },
+          "is_breaking": false,
+          "is_featured": false,
+          "is_editors_pick": false,
+          "is_opinion": false,
+          "id": 3,
+          "slug": "gold-slips-from-record",
+          "title": "Gold slips ₹1,100 from its record as the dollar steadies. Is it time to buy?",
+          "summary": "Jewellers report a pickup in wedding-season demand as prices cool from last week's high.",
+          "cover_image": "https://images.unsplash.com/photo-1610375461246-83df859d849d?w=1600&q=70&auto=format&fit=crop",
+          "cover_caption": "",
+          "category": {
+            "name": "Personal Finance",
+            "slug": "personal-finance"
+          },
+          "published_at": "2026-11-03T13:20:00+05:30",
+          "reading_time": 3,
+          "views": 3940
+        },
+        {
+          "author": {
+            "name": "Economic.Express Desk",
+            "avatar": ""
+          },
+          "is_breaking": false,
+          "is_featured": false,
+          "is_editors_pick": true,
+          "is_opinion": false,
+          "id": 7,
+          "slug": "new-tax-regime-explained",
+          "title": "Old or new tax regime? A simple way to decide before you file",
+          "summary": "Three questions about your deductions tell you which regime saves more.",
+          "cover_image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=1600&q=70&auto=format&fit=crop",
+          "cover_caption": "",
+          "category": {
+            "name": "Personal Finance",
+            "slug": "personal-finance"
+          },
+          "published_at": "2026-11-01T09:00:00+05:30",
+          "reading_time": 6,
+          "views": 2410
+        },
+        {
+          "author": {
+            "name": "Economic.Express Desk",
+            "avatar": ""
+          },
+          "is_breaking": false,
+          "is_featured": false,
+          "is_editors_pick": false,
+          "is_opinion": false,
+          "id": 23,
+          "slug": "fd-rates-cut",
+          "title": "Banks trim fixed deposit rates. Should you lock in now?",
+          "summary": "Several lenders cut 1-year FD rates by up to 0.25 percentage points this week.",
+          "cover_image": "https://images.unsplash.com/photo-1565514020179-026b92b84bb6?w=1600&q=70&auto=format&fit=crop",
+          "cover_caption": "",
+          "category": {
+            "name": "Personal Finance",
+            "slug": "personal-finance"
+          },
+          "published_at": "2026-11-02T09:30:00+05:30",
+          "reading_time": 4,
+          "views": 1840
+        }
+      ],
+      "key_points": [
+        "₹5,000 a month for 15 years at 12% could grow to about ₹25 lakh.",
+        "You invest ₹9 lakh; the rest comes from compounding.",
+        "Starting five years earlier matters more than picking the perfect fund."
+      ]
+    },
+    {
+      "author": {
+        "name": "Economic.Express Desk",
+        "avatar": ""
+      },
+      "is_breaking": false,
+      "is_featured": false,
+      "is_editors_pick": false,
+      "is_opinion": false,
+      "id": 11,
+      "slug": "fiis-turn-net-buyers",
+      "title": "FIIs turn net buyers for the first time in six weeks",
+      "summary": "Foreign investors bought ₹4,200 crore of Indian shares on Monday, betting on cheaper oil and steady rates.",
+      "cover_image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=1600&q=70&auto=format&fit=crop",
+      "cover_caption": "",
+      "category": {
+        "name": "Markets",
+        "slug": "markets"
+      },
+      "published_at": "2026-11-03T12:40:00+05:30",
+      "reading_time": 3,
+      "views": 1430,
+      "body_html": "<p>Foreign investors bought ₹4,200 crore of Indian shares on Monday, betting on cheaper oil and steady rates.</p><p>Market moves like this are watched closely by both traders and long-term investors. Analysts suggest staying diversified and avoiding decisions based on a single session.</p>",
+      "tags": [
+        {
+          "name": "Markets",
+          "slug": "markets"
+        }
+      ],
+      "meta_title": "FIIs turn net buyers for the first time in six weeks",
+      "meta_description": "Foreign investors bought ₹4,200 crore of Indian shares on Monday, betting on cheaper oil and steady rates.",
+      "related": [
+        {
+          "author": {
+            "name": "Economic.Express Desk",
+            "avatar": ""
+          },
+          "is_breaking": true,
+          "is_featured": true,
+          "is_editors_pick": false,
+          "is_opinion": false,
+          "id": 2,
+          "slug": "sensex-jumps-crude-slides",
+          "title": "Sensex jumps 1,200 points as crude slides below $72 and banks lead a broad rally",
+          "summary": "Falling oil prices eased inflation worries, pulling foreign investors back into Indian equities. Nifty closed above 23,800 for the first time in three weeks.",
+          "cover_image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=1600&q=70&auto=format&fit=crop",
+          "cover_caption": "Benchmark indices posted their best single-day gain in a month.",
+          "category": {
+            "name": "Markets",
+            "slug": "markets"
+          },
+          "published_at": "2026-11-03T15:40:00+05:30",
+          "reading_time": 4,
+          "views": 6120
+        },
+        {
+          "author": {
+            "name": "Economic.Express Desk",
+            "avatar": ""
+          },
+          "is_breaking": false,
+          "is_featured": false,
+          "is_editors_pick": false,
+          "is_opinion": false,
+          "id": 12,
+          "slug": "midcap-index-record",
+          "title": "Midcap index hits a record, but analysts warn valuations look stretched",
+          "summary": "The Nifty Midcap 100 trades at 32 times earnings, well above its five-year average.",
+          "cover_image": "https://images.unsplash.com/photo-1543286386-2e659306cd6c?w=1600&q=70&auto=format&fit=crop",
+          "cover_caption": "",
+          "category": {
+            "name": "Markets",
+            "slug": "markets"
+          },
+          "published_at": "2026-11-02T16:05:00+05:30",
+          "reading_time": 4,
+          "views": 1210
+        },
+        {
+          "author": {
+            "name": "Economic.Express Desk",
+            "avatar": ""
+          },
+          "is_breaking": false,
+          "is_featured": false,
+          "is_editors_pick": false,
+          "is_opinion": false,
+          "id": 13,
+          "slug": "psu-banks-lead",
+          "title": "PSU banks lead gains as bad loans fall to a decade low",
+          "summary": "Gross NPAs at state-run lenders dropped below 3% for the first time since 2015.",
+          "cover_image": "https://images.unsplash.com/photo-1593672715438-d88a70629abe?w=1600&q=70&auto=format&fit=crop",
+          "cover_caption": "",
+          "category": {
+            "name": "Markets",
+            "slug": "markets"
+          },
+          "published_at": "2026-11-02T11:20:00+05:30",
+          "reading_time": 3,
+          "views": 980
+        }
+      ]
+    },
+    {
+      "author": {
+        "name": "Economic.Express Desk",
+        "avatar": ""
+      },
+      "is_breaking": false,
+      "is_featured": false,
+      "is_editors_pick": false,
+      "is_opinion": false,
+      "id": 12,
+      "slug": "midcap-index-record",
+      "title": "Midcap index hits a record, but analysts warn valuations look stretched",
+      "summary": "The Nifty Midcap 100 trades at 32 times earnings, well above its five-year average.",
+      "cover_image": "https://images.unsplash.com/photo-1543286386-2e659306cd6c?w=1600&q=70&auto=format&fit=crop",
+      "cover_caption": "",
+      "category": {
+        "name": "Markets",
+        "slug": "markets"
+      },
+      "published_at": "2026-11-02T16:05:00+05:30",
+      "reading_time": 4,
+      "views": 1210,
+      "body_html": "<p>The Nifty Midcap 100 trades at 32 times earnings, well above its five-year average.</p><p>Market moves like this are watched closely by both traders and long-term investors. Analysts suggest staying diversified and avoiding decisions based on a single session.</p>",
+      "tags": [
+        {
+          "name": "Markets",
+          "slug": "markets"
+        }
+      ],
+      "meta_title": "Midcap index hits a record, but analysts warn valuations look stretched",
+      "meta_description": "The Nifty Midcap 100 trades at 32 times earnings, well above its five-year average.",
+      "related": [
+        {
+          "author": {
+            "name": "Economic.Express Desk",
+            "avatar": ""
+          },
+          "is_breaking": true,
+          "is_featured": true,
+          "is_editors_pick": false,
+          "is_opinion": false,
+          "id": 2,
+          "slug": "sensex-jumps-crude-slides",
+          "title": "Sensex jumps 1,200 points as crude slides below $72 and banks lead a broad rally",
+          "summary": "Falling oil prices eased inflation worries, pulling foreign investors back into Indian equities. Nifty closed above 23,800 for the first time in three weeks.",
+          "cover_image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=1600&q=70&auto=format&fit=crop",
+          "cover_caption": "Benchmark indices posted their best single-day gain in a month.",
+          "category": {
+            "name": "Markets",
+            "slug": "markets"
+          },
+          "published_at": "2026-11-03T15:40:00+05:30",
+          "reading_time": 4,
+          "views": 6120
+        },
+        {
+          "author": {
+            "name": "Economic.Express Desk",
+            "avatar": ""
+          },
+          "is_breaking": false,
+          "is_featured": false,
+          "is_editors_pick": false,
+          "is_opinion": false,
+          "id": 11,
+          "slug": "fiis-turn-net-buyers",
+          "title": "FIIs turn net buyers for the first time in six weeks",
+          "summary": "Foreign investors bought ₹4,200 crore of Indian shares on Monday, betting on cheaper oil and steady rates.",
+          "cover_image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=1600&q=70&auto=format&fit=crop",
+          "cover_caption": "",
+          "category": {
+            "name": "Markets",
+            "slug": "markets"
+          },
+          "published_at": "2026-11-03T12:40:00+05:30",
+          "reading_time": 3,
+          "views": 1430
+        },
+        {
+          "author": {
+            "name": "Economic.Express Desk",
+            "avatar": ""
+          },
+          "is_breaking": false,
+          "is_featured": false,
+          "is_editors_pick": false,
+          "is_opinion": false,
+          "id": 13,
+          "slug": "psu-banks-lead",
+          "title": "PSU banks lead gains as bad loans fall to a decade low",
+          "summary": "Gross NPAs at state-run lenders dropped below 3% for the first time since 2015.",
+          "cover_image": "https://images.unsplash.com/photo-1593672715438-d88a70629abe?w=1600&q=70&auto=format&fit=crop",
+          "cover_caption": "",
+          "category": {
+            "name": "Markets",
+            "slug": "markets"
+          },
+          "published_at": "2026-11-02T11:20:00+05:30",
+          "reading_time": 3,
+          "views": 980
+        }
+      ]
+    },
+    {
+      "author": {
+        "name": "Economic.Express Desk",
+        "avatar": ""
+      },
+      "is_breaking": false,
+      "is_featured": false,
+      "is_editors_pick": false,
+      "is_opinion": false,
+      "id": 13,
+      "slug": "psu-banks-lead",
+      "title": "PSU banks lead gains as bad loans fall to a decade low",
+      "summary": "Gross NPAs at state-run lenders dropped below 3% for the first time since 2015.",
+      "cover_image": "https://images.unsplash.com/photo-1593672715438-d88a70629abe?w=1600&q=70&auto=format&fit=crop",
+      "cover_caption": "",
+      "category": {
+        "name": "Markets",
+        "slug": "markets"
+      },
+      "published_at": "2026-11-02T11:20:00+05:30",
+      "reading_time": 3,
+      "views": 980,
+      "body_html": "<p>Gross NPAs at state-run lenders dropped below 3% for the first time since 2015.</p><p>Market moves like this are watched closely by both traders and long-term investors. Analysts suggest staying diversified and avoiding decisions based on a single session.</p>",
+      "tags": [
+        {
+          "name": "Markets",
+          "slug": "markets"
+        }
+      ],
+      "meta_title": "PSU banks lead gains as bad loans fall to a decade low",
+      "meta_description": "Gross NPAs at state-run lenders dropped below 3% for the first time since 2015.",
+      "related": [
+        {
+          "author": {
+            "name": "Economic.Express Desk",
+            "avatar": ""
+          },
+          "is_breaking": true,
+          "is_featured": true,
+          "is_editors_pick": false,
+          "is_opinion": false,
+          "id": 2,
+          "slug": "sensex-jumps-crude-slides",
+          "title": "Sensex jumps 1,200 points as crude slides below $72 and banks lead a broad rally",
+          "summary": "Falling oil prices eased inflation worries, pulling foreign investors back into Indian equities. Nifty closed above 23,800 for the first time in three weeks.",
+          "cover_image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=1600&q=70&auto=format&fit=crop",
+          "cover_caption": "Benchmark indices posted their best single-day gain in a month.",
+          "category": {
+            "name": "Markets",
+            "slug": "markets"
+          },
+          "published_at": "2026-11-03T15:40:00+05:30",
+          "reading_time": 4,
+          "views": 6120
+        },
+        {
+          "author": {
+            "name": "Economic.Express Desk",
+            "avatar": ""
+          },
+          "is_breaking": false,
+          "is_featured": false,
+          "is_editors_pick": false,
+          "is_opinion": false,
+          "id": 11,
+          "slug": "fiis-turn-net-buyers",
+          "title": "FIIs turn net buyers for the first time in six weeks",
+          "summary": "Foreign investors bought ₹4,200 crore of Indian shares on Monday, betting on cheaper oil and steady rates.",
+          "cover_image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=1600&q=70&auto=format&fit=crop",
+          "cover_caption": "",
+          "category": {
+            "name": "Markets",
+            "slug": "markets"
+          },
+          "published_at": "2026-11-03T12:40:00+05:30",
+          "reading_time": 3,
+          "views": 1430
+        },
+        {
+          "author": {
+            "name": "Economic.Express Desk",
+            "avatar": ""
+          },
+          "is_breaking": false,
+          "is_featured": false,
+          "is_editors_pick": false,
+          "is_opinion": false,
+          "id": 12,
+          "slug": "midcap-index-record",
+          "title": "Midcap index hits a record, but analysts warn valuations look stretched",
+          "summary": "The Nifty Midcap 100 trades at 32 times earnings, well above its five-year average.",
+          "cover_image": "https://images.unsplash.com/photo-1543286386-2e659306cd6c?w=1600&q=70&auto=format&fit=crop",
+          "cover_caption": "",
+          "category": {
+            "name": "Markets",
+            "slug": "markets"
+          },
+          "published_at": "2026-11-02T16:05:00+05:30",
+          "reading_time": 4,
+          "views": 1210
+        }
+      ]
+    },
+    {
+      "author": {
+        "name": "Economic.Express Desk",
+        "avatar": ""
+      },
+      "is_breaking": false,
+      "is_featured": false,
+      "is_editors_pick": false,
+      "is_opinion": false,
+      "id": 14,
+      "slug": "rupee-firms",
+      "title": "Rupee firms to 87.9 against the dollar on foreign inflows",
+      "summary": "The currency has gained for three straight sessions.",
+      "cover_image": "https://images.unsplash.com/photo-1580519542036-c47de6196ba5?w=1600&q=70&auto=format&fit=crop",
+      "cover_caption": "",
+      "category": {
+        "name": "Markets",
+        "slug": "markets"
+      },
+      "published_at": "2026-11-01T17:30:00+05:30",
+      "reading_time": 2,
+      "views": 870,
+      "body_html": "<p>The currency has gained for three straight sessions.</p><p>Market moves like this are watched closely by both traders and long-term investors. Analysts suggest staying diversified and avoiding decisions based on a single session.</p>",
+      "tags": [
+        {
+          "name": "Markets",
+          "slug": "markets"
+        }
+      ],
+      "meta_title": "Rupee firms to 87.9 against the dollar on foreign inflows",
+      "meta_description": "The currency has gained for three straight sessions.",
+      "related": [
+        {
+          "author": {
+            "name": "Economic.Express Desk",
+            "avatar": ""
+          },
+          "is_breaking": true,
+          "is_featured": true,
+          "is_editors_pick": false,
+          "is_opinion": false,
+          "id": 2,
+          "slug": "sensex-jumps-crude-slides",
+          "title": "Sensex jumps 1,200 points as crude slides below $72 and banks lead a broad rally",
+          "summary": "Falling oil prices eased inflation worries, pulling foreign investors back into Indian equities. Nifty closed above 23,800 for the first time in three weeks.",
+          "cover_image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=1600&q=70&auto=format&fit=crop",
+          "cover_caption": "Benchmark indices posted their best single-day gain in a month.",
+          "category": {
+            "name": "Markets",
+            "slug": "markets"
+          },
+          "published_at": "2026-11-03T15:40:00+05:30",
+          "reading_time": 4,
+          "views": 6120
+        },
+        {
+          "author": {
+            "name": "Economic.Express Desk",
+            "avatar": ""
+          },
+          "is_breaking": false,
+          "is_featured": false,
+          "is_editors_pick": false,
+          "is_opinion": false,
+          "id": 11,
+          "slug": "fiis-turn-net-buyers",
+          "title": "FIIs turn net buyers for the first time in six weeks",
+          "summary": "Foreign investors bought ₹4,200 crore of Indian shares on Monday, betting on cheaper oil and steady rates.",
+          "cover_image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=1600&q=70&auto=format&fit=crop",
+          "cover_caption": "",
+          "category": {
+            "name": "Markets",
+            "slug": "markets"
+          },
+          "published_at": "2026-11-03T12:40:00+05:30",
+          "reading_time": 3,
+          "views": 1430
+        },
+        {
+          "author": {
+            "name": "Economic.Express Desk",
+            "avatar": ""
+          },
+          "is_breaking": false,
+          "is_featured": false,
+          "is_editors_pick": false,
+          "is_opinion": false,
+          "id": 12,
+          "slug": "midcap-index-record",
+          "title": "Midcap index hits a record, but analysts warn valuations look stretched",
+          "summary": "The Nifty Midcap 100 trades at 32 times earnings, well above its five-year average.",
+          "cover_image": "https://images.unsplash.com/photo-1543286386-2e659306cd6c?w=1600&q=70&auto=format&fit=crop",
+          "cover_caption": "",
+          "category": {
+            "name": "Markets",
+            "slug": "markets"
+          },
+          "published_at": "2026-11-02T16:05:00+05:30",
+          "reading_time": 4,
+          "views": 1210
+        }
+      ]
+    },
+    {
+      "author": {
+        "name": "Economic.Express Desk",
+        "avatar": ""
+      },
+      "is_breaking": false,
+      "is_featured": false,
+      "is_editors_pick": false,
+      "is_opinion": false,
+      "id": 15,
+      "slug": "gst-collections-october",
+      "title": "GST collections rise 9% to ₹1.96 lakh crore in October",
+      "summary": "Festive spending and better compliance lifted collections across most states.",
+      "cover_image": "https://images.unsplash.com/photo-1541354329998-f4d9a9f9297f?w=1600&q=70&auto=format&fit=crop",
+      "cover_caption": "",
+      "category": {
+        "name": "Economy",
+        "slug": "economy"
+      },
+      "published_at": "2026-11-01T14:00:00+05:30",
+      "reading_time": 3,
+      "views": 1650,
+      "body_html": "<p>Festive spending and better compliance lifted collections across most states.</p><p>Economists say the data adds to a broadly stable picture for India's economy, though global demand and food prices remain the key risks to watch.</p>",
+      "tags": [
+        {
+          "name": "Economy",
+          "slug": "economy"
+        }
+      ],
+      "meta_title": "GST collections rise 9% to ₹1.96 lakh crore in October",
+      "meta_description": "Festive spending and better compliance lifted collections across most states.",
+      "related": [
+        {
+          "author": {
+            "name": "Economic.Express Desk",
+            "avatar": ""
+          },
+          "is_breaking": true,
+          "is_featured": true,
+          "is_editors_pick": false,
+          "is_opinion": false,
+          "id": 1,
+          "slug": "rbi-holds-repo-rate",
+          "title": "RBI holds repo rate at 5.5%, signals room for a cut if inflation keeps cooling",
+          "summary": "The Monetary Policy Committee voted 5-1 to keep rates unchanged, while lowering its inflation forecast for the year.",
+          "cover_image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=1600&q=70&auto=format&fit=crop",
+          "cover_caption": "",
+          "category": {
+            "name": "Economy",
+            "slug": "economy"
+          },
+          "published_at": "2026-11-03T10:05:00+05:30",
+          "reading_time": 5,
+          "views": 4820
+        },
+        {
+          "author": {
+            "name": "Economic.Express Desk",
+            "avatar": ""
+          },
+          "is_breaking": false,
+          "is_featured": false,
+          "is_editors_pick": false,
+          "is_opinion": false,
+          "id": 16,
+          "slug": "retail-inflation-eases",
+          "title": "Retail inflation eases to 3.1%, the lowest in 14 months",
+          "summary": "Cheaper vegetables and pulses pulled food inflation down sharply.",
+          "cover_image": "https://images.unsplash.com/photo-1556740758-90de374c12ad?w=1600&q=70&auto=format&fit=crop",
+          "cover_caption": "",
+          "category": {
+            "name": "Economy",
+            "slug": "economy"
+          },
+          "published_at": "2026-10-31T17:30:00+05:30",
+          "reading_time": 4,
+          "views": 1520
+        },
+        {
+          "author": {
+            "name": "Economic.Express Desk",
+            "avatar": ""
+          },
+          "is_breaking": false,
+          "is_featured": false,
+          "is_editors_pick": false,
+          "is_opinion": false,
+          "id": 17,
+          "slug": "exports-electronics",
+          "title": "Exports grow 6% as electronics shipments surge",
+          "summary": "Smartphones are now India's third-largest export category.",
+          "cover_image": "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?w=1600&q=70&auto=format&fit=crop",
+          "cover_caption": "",
+          "category": {
+            "name": "Economy",
+            "slug": "economy"
+          },
+          "published_at": "2026-10-31T11:00:00+05:30",
+          "reading_time": 3,
+          "views": 1120
+        }
+      ]
+    },
+    {
+      "author": {
+        "name": "Economic.Express Desk",
+        "avatar": ""
+      },
+      "is_breaking": false,
+      "is_featured": false,
+      "is_editors_pick": false,
+      "is_opinion": false,
+      "id": 16,
+      "slug": "retail-inflation-eases",
+      "title": "Retail inflation eases to 3.1%, the lowest in 14 months",
+      "summary": "Cheaper vegetables and pulses pulled food inflation down sharply.",
+      "cover_image": "https://images.unsplash.com/photo-1556740758-90de374c12ad?w=1600&q=70&auto=format&fit=crop",
+      "cover_caption": "",
+      "category": {
+        "name": "Economy",
+        "slug": "economy"
+      },
+      "published_at": "2026-10-31T17:30:00+05:30",
+      "reading_time": 4,
+      "views": 1520,
+      "body_html": "<p>Cheaper vegetables and pulses pulled food inflation down sharply.</p><p>Economists say the data adds to a broadly stable picture for India's economy, though global demand and food prices remain the key risks to watch.</p>",
+      "tags": [
+        {
+          "name": "Economy",
+          "slug": "economy"
+        }
+      ],
+      "meta_title": "Retail inflation eases to 3.1%, the lowest in 14 months",
+      "meta_description": "Cheaper vegetables and pulses pulled food inflation down sharply.",
+      "related": [
+        {
+          "author": {
+            "name": "Economic.Express Desk",
+            "avatar": ""
+          },
+          "is_breaking": true,
+          "is_featured": true,
+          "is_editors_pick": false,
+          "is_opinion": false,
+          "id": 1,
+          "slug": "rbi-holds-repo-rate",
+          "title": "RBI holds repo rate at 5.5%, signals room for a cut if inflation keeps cooling",
+          "summary": "The Monetary Policy Committee voted 5-1 to keep rates unchanged, while lowering its inflation forecast for the year.",
+          "cover_image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=1600&q=70&auto=format&fit=crop",
+          "cover_caption": "",
+          "category": {
+            "name": "Economy",
+            "slug": "economy"
+          },
+          "published_at": "2026-11-03T10:05:00+05:30",
+          "reading_time": 5,
+          "views": 4820
+        },
+        {
+          "author": {
+            "name": "Economic.Express Desk",
+            "avatar": ""
+          },
+          "is_breaking": false,
+          "is_featured": false,
+          "is_editors_pick": false,
+          "is_opinion": false,
+          "id": 15,
+          "slug": "gst-collections-october",
+          "title": "GST collections rise 9% to ₹1.96 lakh crore in October",
+          "summary": "Festive spending and better compliance lifted collections across most states.",
+          "cover_image": "https://images.unsplash.com/photo-1541354329998-f4d9a9f9297f?w=1600&q=70&auto=format&fit=crop",
+          "cover_caption": "",
+          "category": {
+            "name": "Economy",
+            "slug": "economy"
+          },
+          "published_at": "2026-11-01T14:00:00+05:30",
+          "reading_time": 3,
+          "views": 1650
+        },
+        {
+          "author": {
+            "name": "Economic.Express Desk",
+            "avatar": ""
+          },
+          "is_breaking": false,
+          "is_featured": false,
+          "is_editors_pick": false,
+          "is_opinion": false,
+          "id": 17,
+          "slug": "exports-electronics",
+          "title": "Exports grow 6% as electronics shipments surge",
+          "summary": "Smartphones are now India's third-largest export category.",
+          "cover_image": "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?w=1600&q=70&auto=format&fit=crop",
+          "cover_caption": "",
+          "category": {
+            "name": "Economy",
+            "slug": "economy"
+          },
+          "published_at": "2026-10-31T11:00:00+05:30",
+          "reading_time": 3,
+          "views": 1120
+        }
+      ]
+    },
+    {
+      "author": {
+        "name": "Economic.Express Desk",
+        "avatar": ""
+      },
+      "is_breaking": false,
+      "is_featured": false,
+      "is_editors_pick": false,
+      "is_opinion": false,
+      "id": 17,
+      "slug": "exports-electronics",
+      "title": "Exports grow 6% as electronics shipments surge",
+      "summary": "Smartphones are now India's third-largest export category.",
+      "cover_image": "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?w=1600&q=70&auto=format&fit=crop",
+      "cover_caption": "",
+      "category": {
+        "name": "Economy",
+        "slug": "economy"
+      },
+      "published_at": "2026-10-31T11:00:00+05:30",
+      "reading_time": 3,
+      "views": 1120,
+      "body_html": "<p>Smartphones are now India's third-largest export category.</p><p>Economists say the data adds to a broadly stable picture for India's economy, though global demand and food prices remain the key risks to watch.</p>",
+      "tags": [
+        {
+          "name": "Economy",
+          "slug": "economy"
+        }
+      ],
+      "meta_title": "Exports grow 6% as electronics shipments surge",
+      "meta_description": "Smartphones are now India's third-largest export category.",
+      "related": [
+        {
+          "author": {
+            "name": "Economic.Express Desk",
+            "avatar": ""
+          },
+          "is_breaking": true,
+          "is_featured": true,
+          "is_editors_pick": false,
+          "is_opinion": false,
+          "id": 1,
+          "slug": "rbi-holds-repo-rate",
+          "title": "RBI holds repo rate at 5.5%, signals room for a cut if inflation keeps cooling",
+          "summary": "The Monetary Policy Committee voted 5-1 to keep rates unchanged, while lowering its inflation forecast for the year.",
+          "cover_image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=1600&q=70&auto=format&fit=crop",
+          "cover_caption": "",
+          "category": {
+            "name": "Economy",
+            "slug": "economy"
+          },
+          "published_at": "2026-11-03T10:05:00+05:30",
+          "reading_time": 5,
+          "views": 4820
+        },
+        {
+          "author": {
+            "name": "Economic.Express Desk",
+            "avatar": ""
+          },
+          "is_breaking": false,
+          "is_featured": false,
+          "is_editors_pick": false,
+          "is_opinion": false,
+          "id": 15,
+          "slug": "gst-collections-october",
+          "title": "GST collections rise 9% to ₹1.96 lakh crore in October",
+          "summary": "Festive spending and better compliance lifted collections across most states.",
+          "cover_image": "https://images.unsplash.com/photo-1541354329998-f4d9a9f9297f?w=1600&q=70&auto=format&fit=crop",
+          "cover_caption": "",
+          "category": {
+            "name": "Economy",
+            "slug": "economy"
+          },
+          "published_at": "2026-11-01T14:00:00+05:30",
+          "reading_time": 3,
+          "views": 1650
+        },
+        {
+          "author": {
+            "name": "Economic.Express Desk",
+            "avatar": ""
+          },
+          "is_breaking": false,
+          "is_featured": false,
+          "is_editors_pick": false,
+          "is_opinion": false,
+          "id": 16,
+          "slug": "retail-inflation-eases",
+          "title": "Retail inflation eases to 3.1%, the lowest in 14 months",
+          "summary": "Cheaper vegetables and pulses pulled food inflation down sharply.",
+          "cover_image": "https://images.unsplash.com/photo-1556740758-90de374c12ad?w=1600&q=70&auto=format&fit=crop",
+          "cover_caption": "",
+          "category": {
+            "name": "Economy",
+            "slug": "economy"
+          },
+          "published_at": "2026-10-31T17:30:00+05:30",
+          "reading_time": 4,
+          "views": 1520
+        }
+      ]
+    },
+    {
+      "author": {
+        "name": "Economic.Express Desk",
+        "avatar": ""
+      },
+      "is_breaking": false,
+      "is_featured": false,
+      "is_editors_pick": false,
+      "is_opinion": false,
+      "id": 18,
+      "slug": "services-pmi",
+      "title": "Services activity holds near 60 as new orders stay strong",
+      "summary": "Hiring in the services sector rose at its fastest pace this year.",
+      "cover_image": "https://images.unsplash.com/photo-1532619675605-1ede6c2ed2b0?w=1600&q=70&auto=format&fit=crop",
+      "cover_caption": "",
+      "category": {
+        "name": "Economy",
+        "slug": "economy"
+      },
+      "published_at": "2026-10-30T10:30:00+05:30",
+      "reading_time": 3,
+      "views": 760,
+      "body_html": "<p>Hiring in the services sector rose at its fastest pace this year.</p><p>Economists say the data adds to a broadly stable picture for India's economy, though global demand and food prices remain the key risks to watch.</p>",
+      "tags": [
+        {
+          "name": "Economy",
+          "slug": "economy"
+        }
+      ],
+      "meta_title": "Services activity holds near 60 as new orders stay strong",
+      "meta_description": "Hiring in the services sector rose at its fastest pace this year.",
+      "related": [
+        {
+          "author": {
+            "name": "Economic.Express Desk",
+            "avatar": ""
+          },
+          "is_breaking": true,
+          "is_featured": true,
+          "is_editors_pick": false,
+          "is_opinion": false,
+          "id": 1,
+          "slug": "rbi-holds-repo-rate",
+          "title": "RBI holds repo rate at 5.5%, signals room for a cut if inflation keeps cooling",
+          "summary": "The Monetary Policy Committee voted 5-1 to keep rates unchanged, while lowering its inflation forecast for the year.",
+          "cover_image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=1600&q=70&auto=format&fit=crop",
+          "cover_caption": "",
+          "category": {
+            "name": "Economy",
+            "slug": "economy"
+          },
+          "published_at": "2026-11-03T10:05:00+05:30",
+          "reading_time": 5,
+          "views": 4820
+        },
+        {
+          "author": {
+            "name": "Economic.Express Desk",
+            "avatar": ""
+          },
+          "is_breaking": false,
+          "is_featured": false,
+          "is_editors_pick": false,
+          "is_opinion": false,
+          "id": 15,
+          "slug": "gst-collections-october",
+          "title": "GST collections rise 9% to ₹1.96 lakh crore in October",
+          "summary": "Festive spending and better compliance lifted collections across most states.",
+          "cover_image": "https://images.unsplash.com/photo-1541354329998-f4d9a9f9297f?w=1600&q=70&auto=format&fit=crop",
+          "cover_caption": "",
+          "category": {
+            "name": "Economy",
+            "slug": "economy"
+          },
+          "published_at": "2026-11-01T14:00:00+05:30",
+          "reading_time": 3,
+          "views": 1650
+        },
+        {
+          "author": {
+            "name": "Economic.Express Desk",
+            "avatar": ""
+          },
+          "is_breaking": false,
+          "is_featured": false,
+          "is_editors_pick": false,
+          "is_opinion": false,
+          "id": 16,
+          "slug": "retail-inflation-eases",
+          "title": "Retail inflation eases to 3.1%, the lowest in 14 months",
+          "summary": "Cheaper vegetables and pulses pulled food inflation down sharply.",
+          "cover_image": "https://images.unsplash.com/photo-1556740758-90de374c12ad?w=1600&q=70&auto=format&fit=crop",
+          "cover_caption": "",
+          "category": {
+            "name": "Economy",
+            "slug": "economy"
+          },
+          "published_at": "2026-10-31T17:30:00+05:30",
+          "reading_time": 4,
+          "views": 1520
+        }
+      ]
+    },
+    {
+      "author": {
+        "name": "Economic.Express Desk",
+        "avatar": ""
+      },
+      "is_breaking": false,
+      "is_featured": false,
+      "is_editors_pick": false,
+      "is_opinion": false,
+      "id": 19,
+      "slug": "it-firm-beats-estimates",
+      "title": "IT services major beats Q2 estimates on large deal wins",
+      "summary": "Revenue grew 7% on a constant-currency basis, led by banking and retail clients.",
+      "cover_image": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?w=1600&q=70&auto=format&fit=crop",
+      "cover_caption": "",
+      "category": {
+        "name": "Companies",
+        "slug": "companies"
+      },
+      "published_at": "2026-11-02T19:00:00+05:30",
+      "reading_time": 4,
+      "views": 1380,
+      "body_html": "<p>Revenue grew 7% on a constant-currency basis, led by banking and retail clients.</p><p>Investors will look for whether the trend holds over the next few quarters, and how it shows up in earnings and hiring.</p>",
+      "tags": [
+        {
+          "name": "Companies",
+          "slug": "companies"
+        }
+      ],
+      "meta_title": "IT services major beats Q2 estimates on large deal wins",
+      "meta_description": "Revenue grew 7% on a constant-currency basis, led by banking and retail clients.",
+      "related": [
+        {
+          "author": {
+            "name": "Economic.Express Desk",
+            "avatar": ""
+          },
+          "is_breaking": false,
+          "is_featured": false,
+          "is_editors_pick": false,
+          "is_opinion": false,
+          "id": 20,
+          "slug": "ev-sales-record",
+          "title": "Electric car sales cross 20,000 a month for the first time",
+          "summary": "New launches under ₹15 lakh are bringing first-time buyers to EVs.",
+          "cover_image": "https://images.unsplash.com/photo-1617788138017-80ad40651399?w=1600&q=70&auto=format&fit=crop",
+          "cover_caption": "",
+          "category": {
+            "name": "Companies",
+            "slug": "companies"
+          },
+          "published_at": "2026-11-01T12:15:00+05:30",
+          "reading_time": 3,
+          "views": 1290
+        },
+        {
+          "author": {
+            "name": "Economic.Express Desk",
+            "avatar": ""
+          },
+          "is_breaking": false,
+          "is_featured": false,
+          "is_editors_pick": false,
+          "is_opinion": false,
+          "id": 21,
+          "slug": "pharma-exporters-gain",
+          "title": "Pharma exporters gain as US drug approvals pick up",
+          "summary": "Indian drugmakers won 38 approvals from the US regulator in the quarter.",
+          "cover_image": "https://images.unsplash.com/photo-1631549916768-4119b2e5f926?w=1600&q=70&auto=format&fit=crop",
+          "cover_caption": "",
+          "category": {
+            "name": "Companies",
+            "slug": "companies"
+          },
+          "published_at": "2026-10-31T15:45:00+05:30",
+          "reading_time": 3,
+          "views": 940
+        },
+        {
+          "author": {
+            "name": "Economic.Express Desk",
+            "avatar": ""
+          },
+          "is_breaking": false,
+          "is_featured": false,
+          "is_editors_pick": false,
+          "is_opinion": false,
+          "id": 22,
+          "slug": "factories-add-shifts",
+          "title": "Manufacturers add shifts as festive demand peaks",
+          "summary": "Consumer durables makers are running plants at over 90% capacity.",
+          "cover_image": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=1600&q=70&auto=format&fit=crop",
+          "cover_caption": "",
+          "category": {
+            "name": "Companies",
+            "slug": "companies"
+          },
+          "published_at": "2026-10-30T13:20:00+05:30",
+          "reading_time": 3,
+          "views": 690
+        }
+      ]
+    },
+    {
+      "author": {
+        "name": "Economic.Express Desk",
+        "avatar": ""
+      },
+      "is_breaking": false,
+      "is_featured": false,
+      "is_editors_pick": false,
+      "is_opinion": false,
+      "id": 20,
+      "slug": "ev-sales-record",
+      "title": "Electric car sales cross 20,000 a month for the first time",
+      "summary": "New launches under ₹15 lakh are bringing first-time buyers to EVs.",
+      "cover_image": "https://images.unsplash.com/photo-1617788138017-80ad40651399?w=1600&q=70&auto=format&fit=crop",
+      "cover_caption": "",
+      "category": {
+        "name": "Companies",
+        "slug": "companies"
+      },
+      "published_at": "2026-11-01T12:15:00+05:30",
+      "reading_time": 3,
+      "views": 1290,
+      "body_html": "<p>New launches under ₹15 lakh are bringing first-time buyers to EVs.</p><p>Investors will look for whether the trend holds over the next few quarters, and how it shows up in earnings and hiring.</p>",
+      "tags": [
+        {
+          "name": "Companies",
+          "slug": "companies"
+        }
+      ],
+      "meta_title": "Electric car sales cross 20,000 a month for the first time",
+      "meta_description": "New launches under ₹15 lakh are bringing first-time buyers to EVs.",
+      "related": [
+        {
+          "author": {
+            "name": "Economic.Express Desk",
+            "avatar": ""
+          },
+          "is_breaking": false,
+          "is_featured": false,
+          "is_editors_pick": false,
+          "is_opinion": false,
+          "id": 19,
+          "slug": "it-firm-beats-estimates",
+          "title": "IT services major beats Q2 estimates on large deal wins",
+          "summary": "Revenue grew 7% on a constant-currency basis, led by banking and retail clients.",
+          "cover_image": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?w=1600&q=70&auto=format&fit=crop",
+          "cover_caption": "",
+          "category": {
+            "name": "Companies",
+            "slug": "companies"
+          },
+          "published_at": "2026-11-02T19:00:00+05:30",
+          "reading_time": 4,
+          "views": 1380
+        },
+        {
+          "author": {
+            "name": "Economic.Express Desk",
+            "avatar": ""
+          },
+          "is_breaking": false,
+          "is_featured": false,
+          "is_editors_pick": false,
+          "is_opinion": false,
+          "id": 21,
+          "slug": "pharma-exporters-gain",
+          "title": "Pharma exporters gain as US drug approvals pick up",
+          "summary": "Indian drugmakers won 38 approvals from the US regulator in the quarter.",
+          "cover_image": "https://images.unsplash.com/photo-1631549916768-4119b2e5f926?w=1600&q=70&auto=format&fit=crop",
+          "cover_caption": "",
+          "category": {
+            "name": "Companies",
+            "slug": "companies"
+          },
+          "published_at": "2026-10-31T15:45:00+05:30",
+          "reading_time": 3,
+          "views": 940
+        },
+        {
+          "author": {
+            "name": "Economic.Express Desk",
+            "avatar": ""
+          },
+          "is_breaking": false,
+          "is_featured": false,
+          "is_editors_pick": false,
+          "is_opinion": false,
+          "id": 22,
+          "slug": "factories-add-shifts",
+          "title": "Manufacturers add shifts as festive demand peaks",
+          "summary": "Consumer durables makers are running plants at over 90% capacity.",
+          "cover_image": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=1600&q=70&auto=format&fit=crop",
+          "cover_caption": "",
+          "category": {
+            "name": "Companies",
+            "slug": "companies"
+          },
+          "published_at": "2026-10-30T13:20:00+05:30",
+          "reading_time": 3,
+          "views": 690
+        }
+      ]
+    },
+    {
+      "author": {
+        "name": "Economic.Express Desk",
+        "avatar": ""
+      },
+      "is_breaking": false,
+      "is_featured": false,
+      "is_editors_pick": false,
+      "is_opinion": false,
+      "id": 21,
+      "slug": "pharma-exporters-gain",
+      "title": "Pharma exporters gain as US drug approvals pick up",
+      "summary": "Indian drugmakers won 38 approvals from the US regulator in the quarter.",
+      "cover_image": "https://images.unsplash.com/photo-1631549916768-4119b2e5f926?w=1600&q=70&auto=format&fit=crop",
+      "cover_caption": "",
+      "category": {
+        "name": "Companies",
+        "slug": "companies"
+      },
+      "published_at": "2026-10-31T15:45:00+05:30",
+      "reading_time": 3,
+      "views": 940,
+      "body_html": "<p>Indian drugmakers won 38 approvals from the US regulator in the quarter.</p><p>Investors will look for whether the trend holds over the next few quarters, and how it shows up in earnings and hiring.</p>",
+      "tags": [
+        {
+          "name": "Companies",
+          "slug": "companies"
+        }
+      ],
+      "meta_title": "Pharma exporters gain as US drug approvals pick up",
+      "meta_description": "Indian drugmakers won 38 approvals from the US regulator in the quarter.",
+      "related": [
+        {
+          "author": {
+            "name": "Economic.Express Desk",
+            "avatar": ""
+          },
+          "is_breaking": false,
+          "is_featured": false,
+          "is_editors_pick": false,
+          "is_opinion": false,
+          "id": 19,
+          "slug": "it-firm-beats-estimates",
+          "title": "IT services major beats Q2 estimates on large deal wins",
+          "summary": "Revenue grew 7% on a constant-currency basis, led by banking and retail clients.",
+          "cover_image": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?w=1600&q=70&auto=format&fit=crop",
+          "cover_caption": "",
+          "category": {
+            "name": "Companies",
+            "slug": "companies"
+          },
+          "published_at": "2026-11-02T19:00:00+05:30",
+          "reading_time": 4,
+          "views": 1380
+        },
+        {
+          "author": {
+            "name": "Economic.Express Desk",
+            "avatar": ""
+          },
+          "is_breaking": false,
+          "is_featured": false,
+          "is_editors_pick": false,
+          "is_opinion": false,
+          "id": 20,
+          "slug": "ev-sales-record",
+          "title": "Electric car sales cross 20,000 a month for the first time",
+          "summary": "New launches under ₹15 lakh are bringing first-time buyers to EVs.",
+          "cover_image": "https://images.unsplash.com/photo-1617788138017-80ad40651399?w=1600&q=70&auto=format&fit=crop",
+          "cover_caption": "",
+          "category": {
+            "name": "Companies",
+            "slug": "companies"
+          },
+          "published_at": "2026-11-01T12:15:00+05:30",
+          "reading_time": 3,
+          "views": 1290
+        },
+        {
+          "author": {
+            "name": "Economic.Express Desk",
+            "avatar": ""
+          },
+          "is_breaking": false,
+          "is_featured": false,
+          "is_editors_pick": false,
+          "is_opinion": false,
+          "id": 22,
+          "slug": "factories-add-shifts",
+          "title": "Manufacturers add shifts as festive demand peaks",
+          "summary": "Consumer durables makers are running plants at over 90% capacity.",
+          "cover_image": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=1600&q=70&auto=format&fit=crop",
+          "cover_caption": "",
+          "category": {
+            "name": "Companies",
+            "slug": "companies"
+          },
+          "published_at": "2026-10-30T13:20:00+05:30",
+          "reading_time": 3,
+          "views": 690
+        }
+      ]
+    },
+    {
+      "author": {
+        "name": "Economic.Express Desk",
+        "avatar": ""
+      },
+      "is_breaking": false,
+      "is_featured": false,
+      "is_editors_pick": false,
+      "is_opinion": false,
+      "id": 22,
+      "slug": "factories-add-shifts",
+      "title": "Manufacturers add shifts as festive demand peaks",
+      "summary": "Consumer durables makers are running plants at over 90% capacity.",
+      "cover_image": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=1600&q=70&auto=format&fit=crop",
+      "cover_caption": "",
+      "category": {
+        "name": "Companies",
+        "slug": "companies"
+      },
+      "published_at": "2026-10-30T13:20:00+05:30",
+      "reading_time": 3,
+      "views": 690,
+      "body_html": "<p>Consumer durables makers are running plants at over 90% capacity.</p><p>Investors will look for whether the trend holds over the next few quarters, and how it shows up in earnings and hiring.</p>",
+      "tags": [
+        {
+          "name": "Companies",
+          "slug": "companies"
+        }
+      ],
+      "meta_title": "Manufacturers add shifts as festive demand peaks",
+      "meta_description": "Consumer durables makers are running plants at over 90% capacity.",
+      "related": [
+        {
+          "author": {
+            "name": "Economic.Express Desk",
+            "avatar": ""
+          },
+          "is_breaking": false,
+          "is_featured": false,
+          "is_editors_pick": false,
+          "is_opinion": false,
+          "id": 19,
+          "slug": "it-firm-beats-estimates",
+          "title": "IT services major beats Q2 estimates on large deal wins",
+          "summary": "Revenue grew 7% on a constant-currency basis, led by banking and retail clients.",
+          "cover_image": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?w=1600&q=70&auto=format&fit=crop",
+          "cover_caption": "",
+          "category": {
+            "name": "Companies",
+            "slug": "companies"
+          },
+          "published_at": "2026-11-02T19:00:00+05:30",
+          "reading_time": 4,
+          "views": 1380
+        },
+        {
+          "author": {
+            "name": "Economic.Express Desk",
+            "avatar": ""
+          },
+          "is_breaking": false,
+          "is_featured": false,
+          "is_editors_pick": false,
+          "is_opinion": false,
+          "id": 20,
+          "slug": "ev-sales-record",
+          "title": "Electric car sales cross 20,000 a month for the first time",
+          "summary": "New launches under ₹15 lakh are bringing first-time buyers to EVs.",
+          "cover_image": "https://images.unsplash.com/photo-1617788138017-80ad40651399?w=1600&q=70&auto=format&fit=crop",
+          "cover_caption": "",
+          "category": {
+            "name": "Companies",
+            "slug": "companies"
+          },
+          "published_at": "2026-11-01T12:15:00+05:30",
+          "reading_time": 3,
+          "views": 1290
+        },
+        {
+          "author": {
+            "name": "Economic.Express Desk",
+            "avatar": ""
+          },
+          "is_breaking": false,
+          "is_featured": false,
+          "is_editors_pick": false,
+          "is_opinion": false,
+          "id": 21,
+          "slug": "pharma-exporters-gain",
+          "title": "Pharma exporters gain as US drug approvals pick up",
+          "summary": "Indian drugmakers won 38 approvals from the US regulator in the quarter.",
+          "cover_image": "https://images.unsplash.com/photo-1631549916768-4119b2e5f926?w=1600&q=70&auto=format&fit=crop",
+          "cover_caption": "",
+          "category": {
+            "name": "Companies",
+            "slug": "companies"
+          },
+          "published_at": "2026-10-31T15:45:00+05:30",
+          "reading_time": 3,
+          "views": 940
+        }
+      ]
+    },
+    {
+      "author": {
+        "name": "Economic.Express Desk",
+        "avatar": ""
+      },
+      "is_breaking": false,
+      "is_featured": false,
+      "is_editors_pick": false,
+      "is_opinion": false,
+      "id": 23,
+      "slug": "fd-rates-cut",
+      "title": "Banks trim fixed deposit rates. Should you lock in now?",
+      "summary": "Several lenders cut 1-year FD rates by up to 0.25 percentage points this week.",
+      "cover_image": "https://images.unsplash.com/photo-1565514020179-026b92b84bb6?w=1600&q=70&auto=format&fit=crop",
+      "cover_caption": "",
+      "category": {
+        "name": "Personal Finance",
+        "slug": "personal-finance"
+      },
+      "published_at": "2026-11-02T09:30:00+05:30",
+      "reading_time": 4,
+      "views": 1840,
+      "body_html": "<p>Several lenders cut 1-year FD rates by up to 0.25 percentage points this week.</p><p>As always, the right choice depends on your goals, your time horizon and how much risk you can take. A financial planner can help you decide.</p>",
+      "tags": [
+        {
+          "name": "Personal Finance",
+          "slug": "personal-finance"
+        }
+      ],
+      "meta_title": "Banks trim fixed deposit rates. Should you lock in now?",
+      "meta_description": "Several lenders cut 1-year FD rates by up to 0.25 percentage points this week.",
+      "related": [
+        {
+          "author": {
+            "name": "Economic.Express Desk",
+            "avatar": ""
+          },
+          "is_breaking": false,
+          "is_featured": false,
+          "is_editors_pick": false,
+          "is_opinion": false,
+          "id": 3,
+          "slug": "gold-slips-from-record",
+          "title": "Gold slips ₹1,100 from its record as the dollar steadies. Is it time to buy?",
+          "summary": "Jewellers report a pickup in wedding-season demand as prices cool from last week's high.",
+          "cover_image": "https://images.unsplash.com/photo-1610375461246-83df859d849d?w=1600&q=70&auto=format&fit=crop",
+          "cover_caption": "",
+          "category": {
+            "name": "Personal Finance",
+            "slug": "personal-finance"
+          },
+          "published_at": "2026-11-03T13:20:00+05:30",
+          "reading_time": 3,
+          "views": 3940
+        },
+        {
+          "author": {
+            "name": "Economic.Express Desk",
+            "avatar": ""
+          },
+          "is_breaking": false,
+          "is_featured": false,
+          "is_editors_pick": true,
+          "is_opinion": false,
+          "id": 7,
+          "slug": "new-tax-regime-explained",
+          "title": "Old or new tax regime? A simple way to decide before you file",
+          "summary": "Three questions about your deductions tell you which regime saves more.",
+          "cover_image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=1600&q=70&auto=format&fit=crop",
+          "cover_caption": "",
+          "category": {
+            "name": "Personal Finance",
+            "slug": "personal-finance"
+          },
+          "published_at": "2026-11-01T09:00:00+05:30",
+          "reading_time": 6,
+          "views": 2410
+        },
+        {
+          "author": {
+            "name": "Economic.Express Desk",
+            "avatar": ""
+          },
+          "is_breaking": false,
+          "is_featured": false,
+          "is_editors_pick": true,
+          "is_opinion": false,
+          "id": 10,
+          "slug": "what-is-sip-explained",
+          "title": "Explained: how a ₹5,000 monthly SIP can grow over 15 years",
+          "summary": "Compounding, rupee-cost averaging and why starting early matters more than timing the market.",
+          "cover_image": "https://images.unsplash.com/photo-1604594849809-dfedbc827105?w=1600&q=70&auto=format&fit=crop",
+          "cover_caption": "",
+          "category": {
+            "name": "Personal Finance",
+            "slug": "personal-finance"
+          },
+          "published_at": "2026-10-31T10:00:00+05:30",
+          "reading_time": 5,
+          "views": 1540
+        }
+      ]
+    },
+    {
+      "author": {
+        "name": "Economic.Express Desk",
+        "avatar": ""
+      },
+      "is_breaking": false,
+      "is_featured": false,
+      "is_editors_pick": false,
+      "is_opinion": false,
+      "id": 24,
+      "slug": "home-loan-emi",
+      "title": "Home loan EMIs could fall if the RBI cuts rates in December",
+      "summary": "What a 0.25-point cut means on a ₹50 lakh, 20-year loan.",
+      "cover_image": "https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=1600&q=70&auto=format&fit=crop",
+      "cover_caption": "",
+      "category": {
+        "name": "Personal Finance",
+        "slug": "personal-finance"
+      },
+      "published_at": "2026-11-03T14:10:00+05:30",
+      "reading_time": 4,
+      "views": 2210,
+      "body_html": "<p>What a 0.25-point cut means on a ₹50 lakh, 20-year loan.</p><p>As always, the right choice depends on your goals, your time horizon and how much risk you can take. A financial planner can help you decide.</p>",
+      "tags": [
+        {
+          "name": "Personal Finance",
+          "slug": "personal-finance"
+        }
+      ],
+      "meta_title": "Home loan EMIs could fall if the RBI cuts rates in December",
+      "meta_description": "What a 0.25-point cut means on a ₹50 lakh, 20-year loan.",
+      "related": [
+        {
+          "author": {
+            "name": "Economic.Express Desk",
+            "avatar": ""
+          },
+          "is_breaking": false,
+          "is_featured": false,
+          "is_editors_pick": false,
+          "is_opinion": false,
+          "id": 3,
+          "slug": "gold-slips-from-record",
+          "title": "Gold slips ₹1,100 from its record as the dollar steadies. Is it time to buy?",
+          "summary": "Jewellers report a pickup in wedding-season demand as prices cool from last week's high.",
+          "cover_image": "https://images.unsplash.com/photo-1610375461246-83df859d849d?w=1600&q=70&auto=format&fit=crop",
+          "cover_caption": "",
+          "category": {
+            "name": "Personal Finance",
+            "slug": "personal-finance"
+          },
+          "published_at": "2026-11-03T13:20:00+05:30",
+          "reading_time": 3,
+          "views": 3940
+        },
+        {
+          "author": {
+            "name": "Economic.Express Desk",
+            "avatar": ""
+          },
+          "is_breaking": false,
+          "is_featured": false,
+          "is_editors_pick": true,
+          "is_opinion": false,
+          "id": 7,
+          "slug": "new-tax-regime-explained",
+          "title": "Old or new tax regime? A simple way to decide before you file",
+          "summary": "Three questions about your deductions tell you which regime saves more.",
+          "cover_image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=1600&q=70&auto=format&fit=crop",
+          "cover_caption": "",
+          "category": {
+            "name": "Personal Finance",
+            "slug": "personal-finance"
+          },
+          "published_at": "2026-11-01T09:00:00+05:30",
+          "reading_time": 6,
+          "views": 2410
+        },
+        {
+          "author": {
+            "name": "Economic.Express Desk",
+            "avatar": ""
+          },
+          "is_breaking": false,
+          "is_featured": false,
+          "is_editors_pick": true,
+          "is_opinion": false,
+          "id": 10,
+          "slug": "what-is-sip-explained",
+          "title": "Explained: how a ₹5,000 monthly SIP can grow over 15 years",
+          "summary": "Compounding, rupee-cost averaging and why starting early matters more than timing the market.",
+          "cover_image": "https://images.unsplash.com/photo-1604594849809-dfedbc827105?w=1600&q=70&auto=format&fit=crop",
+          "cover_caption": "",
+          "category": {
+            "name": "Personal Finance",
+            "slug": "personal-finance"
+          },
+          "published_at": "2026-10-31T10:00:00+05:30",
+          "reading_time": 5,
+          "views": 1540
+        }
+      ]
+    },
+    {
+      "author": {
+        "name": "Economic.Express Desk",
+        "avatar": ""
+      },
+      "is_breaking": false,
+      "is_featured": false,
+      "is_editors_pick": false,
+      "is_opinion": false,
+      "id": 25,
+      "slug": "saas-startup-profitable",
+      "title": "Bengaluru SaaS startup turns profitable a year ahead of its IPO",
+      "summary": "The company now earns 70% of its revenue from customers outside India.",
+      "cover_image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=1600&q=70&auto=format&fit=crop",
+      "cover_caption": "",
+      "category": {
+        "name": "Startups",
+        "slug": "startups"
+      },
+      "published_at": "2026-11-01T16:40:00+05:30",
+      "reading_time": 4,
+      "views": 1060,
+      "body_html": "<p>The company now earns 70% of its revenue from customers outside India.</p><p>Founders and investors say the next year will reward companies with clear paths to profit over growth at any cost.</p>",
+      "tags": [
+        {
+          "name": "Startups",
+          "slug": "startups"
+        }
+      ],
+      "meta_title": "Bengaluru SaaS startup turns profitable a year ahead of its IPO",
+      "meta_description": "The company now earns 70% of its revenue from customers outside India.",
+      "related": [
+        {
+          "author": {
+            "name": "Economic.Express Desk",
+            "avatar": ""
+          },
+          "is_breaking": false,
+          "is_featured": false,
+          "is_editors_pick": false,
+          "is_opinion": false,
+          "id": 5,
+          "slug": "startup-funding-rebounds",
+          "title": "Startup funding rebounds to a two-year high as AI and climate tech draw investors",
+          "summary": "Indian startups raised $3.4 billion in October, led by late-stage rounds in Bengaluru and Gurugram.",
+          "cover_image": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=1600&q=70&auto=format&fit=crop",
+          "cover_caption": "",
+          "category": {
+            "name": "Startups",
+            "slug": "startups"
+          },
+          "published_at": "2026-11-02T18:10:00+05:30",
+          "reading_time": 4,
+          "views": 2870
+        },
+        {
+          "author": {
+            "name": "Economic.Express Desk",
+            "avatar": ""
+          },
+          "is_breaking": false,
+          "is_featured": false,
+          "is_editors_pick": false,
+          "is_opinion": false,
+          "id": 26,
+          "slug": "women-led-startups",
+          "title": "Women-led startups raise a record $1.1 billion this year",
+          "summary": "Health, education and consumer brands lead the list.",
+          "cover_image": "https://images.unsplash.com/photo-1600880292203-757bb62b4baf?w=1600&q=70&auto=format&fit=crop",
+          "cover_caption": "",
+          "category": {
+            "name": "Startups",
+            "slug": "startups"
+          },
+          "published_at": "2026-10-31T12:00:00+05:30",
+          "reading_time": 3,
+          "views": 920
+        },
+        {
+          "author": {
+            "name": "Economic.Express Desk",
+            "avatar": ""
+          },
+          "is_breaking": false,
+          "is_featured": false,
+          "is_editors_pick": false,
+          "is_opinion": false,
+          "id": 27,
+          "slug": "quick-commerce-small-cities",
+          "title": "Quick-commerce startups bet on smaller cities for growth",
+          "summary": "Ten-minute delivery is expanding to 60 tier-2 cities by March.",
+          "cover_image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=1600&q=70&auto=format&fit=crop",
+          "cover_caption": "",
+          "category": {
+            "name": "Startups",
+            "slug": "startups"
+          },
+          "published_at": "2026-10-30T18:30:00+05:30",
+          "reading_time": 3,
+          "views": 810
+        }
+      ]
+    },
+    {
+      "author": {
+        "name": "Economic.Express Desk",
+        "avatar": ""
+      },
+      "is_breaking": false,
+      "is_featured": false,
+      "is_editors_pick": false,
+      "is_opinion": false,
+      "id": 26,
+      "slug": "women-led-startups",
+      "title": "Women-led startups raise a record $1.1 billion this year",
+      "summary": "Health, education and consumer brands lead the list.",
+      "cover_image": "https://images.unsplash.com/photo-1600880292203-757bb62b4baf?w=1600&q=70&auto=format&fit=crop",
+      "cover_caption": "",
+      "category": {
+        "name": "Startups",
+        "slug": "startups"
+      },
+      "published_at": "2026-10-31T12:00:00+05:30",
+      "reading_time": 3,
+      "views": 920,
+      "body_html": "<p>Health, education and consumer brands lead the list.</p><p>Founders and investors say the next year will reward companies with clear paths to profit over growth at any cost.</p>",
+      "tags": [
+        {
+          "name": "Startups",
+          "slug": "startups"
+        }
+      ],
+      "meta_title": "Women-led startups raise a record $1.1 billion this year",
+      "meta_description": "Health, education and consumer brands lead the list.",
+      "related": [
+        {
+          "author": {
+            "name": "Economic.Express Desk",
+            "avatar": ""
+          },
+          "is_breaking": false,
+          "is_featured": false,
+          "is_editors_pick": false,
+          "is_opinion": false,
+          "id": 5,
+          "slug": "startup-funding-rebounds",
+          "title": "Startup funding rebounds to a two-year high as AI and climate tech draw investors",
+          "summary": "Indian startups raised $3.4 billion in October, led by late-stage rounds in Bengaluru and Gurugram.",
+          "cover_image": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=1600&q=70&auto=format&fit=crop",
+          "cover_caption": "",
+          "category": {
+            "name": "Startups",
+            "slug": "startups"
+          },
+          "published_at": "2026-11-02T18:10:00+05:30",
+          "reading_time": 4,
+          "views": 2870
+        },
+        {
+          "author": {
+            "name": "Economic.Express Desk",
+            "avatar": ""
+          },
+          "is_breaking": false,
+          "is_featured": false,
+          "is_editors_pick": false,
+          "is_opinion": false,
+          "id": 25,
+          "slug": "saas-startup-profitable",
+          "title": "Bengaluru SaaS startup turns profitable a year ahead of its IPO",
+          "summary": "The company now earns 70% of its revenue from customers outside India.",
+          "cover_image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=1600&q=70&auto=format&fit=crop",
+          "cover_caption": "",
+          "category": {
+            "name": "Startups",
+            "slug": "startups"
+          },
+          "published_at": "2026-11-01T16:40:00+05:30",
+          "reading_time": 4,
+          "views": 1060
+        },
+        {
+          "author": {
+            "name": "Economic.Express Desk",
+            "avatar": ""
+          },
+          "is_breaking": false,
+          "is_featured": false,
+          "is_editors_pick": false,
+          "is_opinion": false,
+          "id": 27,
+          "slug": "quick-commerce-small-cities",
+          "title": "Quick-commerce startups bet on smaller cities for growth",
+          "summary": "Ten-minute delivery is expanding to 60 tier-2 cities by March.",
+          "cover_image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=1600&q=70&auto=format&fit=crop",
+          "cover_caption": "",
+          "category": {
+            "name": "Startups",
+            "slug": "startups"
+          },
+          "published_at": "2026-10-30T18:30:00+05:30",
+          "reading_time": 3,
+          "views": 810
+        }
+      ]
+    },
+    {
+      "author": {
+        "name": "Economic.Express Desk",
+        "avatar": ""
+      },
+      "is_breaking": false,
+      "is_featured": false,
+      "is_editors_pick": false,
+      "is_opinion": false,
+      "id": 27,
+      "slug": "quick-commerce-small-cities",
+      "title": "Quick-commerce startups bet on smaller cities for growth",
+      "summary": "Ten-minute delivery is expanding to 60 tier-2 cities by March.",
+      "cover_image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=1600&q=70&auto=format&fit=crop",
+      "cover_caption": "",
+      "category": {
+        "name": "Startups",
+        "slug": "startups"
+      },
+      "published_at": "2026-10-30T18:30:00+05:30",
+      "reading_time": 3,
+      "views": 810,
+      "body_html": "<p>Ten-minute delivery is expanding to 60 tier-2 cities by March.</p><p>Founders and investors say the next year will reward companies with clear paths to profit over growth at any cost.</p>",
+      "tags": [
+        {
+          "name": "Startups",
+          "slug": "startups"
+        }
+      ],
+      "meta_title": "Quick-commerce startups bet on smaller cities for growth",
+      "meta_description": "Ten-minute delivery is expanding to 60 tier-2 cities by March.",
+      "related": [
+        {
+          "author": {
+            "name": "Economic.Express Desk",
+            "avatar": ""
+          },
+          "is_breaking": false,
+          "is_featured": false,
+          "is_editors_pick": false,
+          "is_opinion": false,
+          "id": 5,
+          "slug": "startup-funding-rebounds",
+          "title": "Startup funding rebounds to a two-year high as AI and climate tech draw investors",
+          "summary": "Indian startups raised $3.4 billion in October, led by late-stage rounds in Bengaluru and Gurugram.",
+          "cover_image": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=1600&q=70&auto=format&fit=crop",
+          "cover_caption": "",
+          "category": {
+            "name": "Startups",
+            "slug": "startups"
+          },
+          "published_at": "2026-11-02T18:10:00+05:30",
+          "reading_time": 4,
+          "views": 2870
+        },
+        {
+          "author": {
+            "name": "Economic.Express Desk",
+            "avatar": ""
+          },
+          "is_breaking": false,
+          "is_featured": false,
+          "is_editors_pick": false,
+          "is_opinion": false,
+          "id": 25,
+          "slug": "saas-startup-profitable",
+          "title": "Bengaluru SaaS startup turns profitable a year ahead of its IPO",
+          "summary": "The company now earns 70% of its revenue from customers outside India.",
+          "cover_image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=1600&q=70&auto=format&fit=crop",
+          "cover_caption": "",
+          "category": {
+            "name": "Startups",
+            "slug": "startups"
+          },
+          "published_at": "2026-11-01T16:40:00+05:30",
+          "reading_time": 4,
+          "views": 1060
+        },
+        {
+          "author": {
+            "name": "Economic.Express Desk",
+            "avatar": ""
+          },
+          "is_breaking": false,
+          "is_featured": false,
+          "is_editors_pick": false,
+          "is_opinion": false,
+          "id": 26,
+          "slug": "women-led-startups",
+          "title": "Women-led startups raise a record $1.1 billion this year",
+          "summary": "Health, education and consumer brands lead the list.",
+          "cover_image": "https://images.unsplash.com/photo-1600880292203-757bb62b4baf?w=1600&q=70&auto=format&fit=crop",
+          "cover_caption": "",
+          "category": {
+            "name": "Startups",
+            "slug": "startups"
+          },
+          "published_at": "2026-10-31T12:00:00+05:30",
+          "reading_time": 3,
+          "views": 920
+        }
+      ]
+    },
+    {
+      "author": {
+        "name": "Vikram Mehta",
+        "avatar": ""
+      },
+      "is_breaking": false,
+      "is_featured": false,
+      "is_editors_pick": false,
+      "is_opinion": true,
+      "id": 28,
+      "slug": "opinion-msme-credit",
+      "title": "Small businesses don't need more loans. They need faster payments",
+      "summary": "Delayed invoices from large buyers hurt MSMEs more than high interest rates do.",
+      "cover_image": "https://images.unsplash.com/photo-1556740758-90de374c12ad?w=1600&q=70&auto=format&fit=crop",
+      "cover_caption": "",
+      "category": {
+        "name": "Opinion",
+        "slug": "opinion"
+      },
+      "published_at": "2026-11-01T08:00:00+05:30",
+      "reading_time": 5,
+      "views": 1180,
+      "body_html": "<p>Delayed invoices from large buyers hurt MSMEs more than high interest rates do.</p><p>The views expressed are the author's own.</p>",
+      "tags": [
+        {
+          "name": "Opinion",
+          "slug": "opinion"
+        }
+      ],
+      "meta_title": "Small businesses don't need more loans. They need faster payments",
+      "meta_description": "Delayed invoices from large buyers hurt MSMEs more than high interest rates do.",
+      "related": [
+        {
+          "author": {
+            "name": "Ananya Rao",
+            "avatar": ""
+          },
+          "is_breaking": false,
+          "is_featured": false,
+          "is_editors_pick": false,
+          "is_opinion": true,
+          "id": 9,
+          "slug": "india-growth-story-opinion",
+          "title": "India's growth story needs jobs, not just GDP headlines",
+          "summary": "Strong numbers mean little if young graduates can't find work that matches their skills.",
+          "cover_image": "https://images.unsplash.com/photo-1579532537598-459ecdaf39cc?w=1600&q=70&auto=format&fit=crop",
+          "cover_caption": "",
+          "category": {
+            "name": "Opinion",
+            "slug": "opinion"
+          },
+          "published_at": "2026-11-02T08:00:00+05:30",
+          "reading_time": 5,
+          "views": 1760
+        },
+        {
+          "author": {
+            "name": "Farah Siddiqui",
+            "avatar": ""
+          },
+          "is_breaking": false,
+          "is_featured": false,
+          "is_editors_pick": false,
+          "is_opinion": true,
+          "id": 29,
+          "slug": "opinion-household-savings",
+          "title": "Why India's household savings rate should worry us more than the fiscal deficit",
+          "summary": "Families are borrowing more for consumption and saving less for the long term.",
+          "cover_image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=1600&q=70&auto=format&fit=crop",
+          "cover_caption": "",
+          "category": {
+            "name": "Opinion",
+            "slug": "opinion"
+          },
+          "published_at": "2026-10-31T08:00:00+05:30",
+          "reading_time": 6,
+          "views": 1020
+        },
+        {
+          "author": {
+            "name": "Economic.Express Desk",
+            "avatar": ""
+          },
+          "is_breaking": true,
+          "is_featured": true,
+          "is_editors_pick": false,
+          "is_opinion": false,
+          "id": 2,
+          "slug": "sensex-jumps-crude-slides",
+          "title": "Sensex jumps 1,200 points as crude slides below $72 and banks lead a broad rally",
+          "summary": "Falling oil prices eased inflation worries, pulling foreign investors back into Indian equities. Nifty closed above 23,800 for the first time in three weeks.",
+          "cover_image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=1600&q=70&auto=format&fit=crop",
+          "cover_caption": "Benchmark indices posted their best single-day gain in a month.",
+          "category": {
+            "name": "Markets",
+            "slug": "markets"
+          },
+          "published_at": "2026-11-03T15:40:00+05:30",
+          "reading_time": 4,
+          "views": 6120
+        }
+      ]
+    },
+    {
+      "author": {
+        "name": "Farah Siddiqui",
+        "avatar": ""
+      },
+      "is_breaking": false,
+      "is_featured": false,
+      "is_editors_pick": false,
+      "is_opinion": true,
+      "id": 29,
+      "slug": "opinion-household-savings",
+      "title": "Why India's household savings rate should worry us more than the fiscal deficit",
+      "summary": "Families are borrowing more for consumption and saving less for the long term.",
+      "cover_image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=1600&q=70&auto=format&fit=crop",
+      "cover_caption": "",
+      "category": {
+        "name": "Opinion",
+        "slug": "opinion"
+      },
+      "published_at": "2026-10-31T08:00:00+05:30",
+      "reading_time": 6,
+      "views": 1020,
+      "body_html": "<p>Families are borrowing more for consumption and saving less for the long term.</p><p>The views expressed are the author's own.</p>",
+      "tags": [
+        {
+          "name": "Opinion",
+          "slug": "opinion"
+        }
+      ],
+      "meta_title": "Why India's household savings rate should worry us more than the fiscal deficit",
+      "meta_description": "Families are borrowing more for consumption and saving less for the long term.",
+      "related": [
+        {
+          "author": {
+            "name": "Ananya Rao",
+            "avatar": ""
+          },
+          "is_breaking": false,
+          "is_featured": false,
+          "is_editors_pick": false,
+          "is_opinion": true,
+          "id": 9,
+          "slug": "india-growth-story-opinion",
+          "title": "India's growth story needs jobs, not just GDP headlines",
+          "summary": "Strong numbers mean little if young graduates can't find work that matches their skills.",
+          "cover_image": "https://images.unsplash.com/photo-1579532537598-459ecdaf39cc?w=1600&q=70&auto=format&fit=crop",
+          "cover_caption": "",
+          "category": {
+            "name": "Opinion",
+            "slug": "opinion"
+          },
+          "published_at": "2026-11-02T08:00:00+05:30",
+          "reading_time": 5,
+          "views": 1760
+        },
+        {
+          "author": {
+            "name": "Vikram Mehta",
+            "avatar": ""
+          },
+          "is_breaking": false,
+          "is_featured": false,
+          "is_editors_pick": false,
+          "is_opinion": true,
+          "id": 28,
+          "slug": "opinion-msme-credit",
+          "title": "Small businesses don't need more loans. They need faster payments",
+          "summary": "Delayed invoices from large buyers hurt MSMEs more than high interest rates do.",
+          "cover_image": "https://images.unsplash.com/photo-1556740758-90de374c12ad?w=1600&q=70&auto=format&fit=crop",
+          "cover_caption": "",
+          "category": {
+            "name": "Opinion",
+            "slug": "opinion"
+          },
+          "published_at": "2026-11-01T08:00:00+05:30",
+          "reading_time": 5,
+          "views": 1180
+        },
+        {
+          "author": {
+            "name": "Economic.Express Desk",
+            "avatar": ""
+          },
+          "is_breaking": true,
+          "is_featured": true,
+          "is_editors_pick": false,
+          "is_opinion": false,
+          "id": 2,
+          "slug": "sensex-jumps-crude-slides",
+          "title": "Sensex jumps 1,200 points as crude slides below $72 and banks lead a broad rally",
+          "summary": "Falling oil prices eased inflation worries, pulling foreign investors back into Indian equities. Nifty closed above 23,800 for the first time in three weeks.",
+          "cover_image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=1600&q=70&auto=format&fit=crop",
+          "cover_caption": "Benchmark indices posted their best single-day gain in a month.",
+          "category": {
+            "name": "Markets",
+            "slug": "markets"
+          },
+          "published_at": "2026-11-03T15:40:00+05:30",
+          "reading_time": 4,
+          "views": 6120
+        }
+      ]
+    }
+  ],
+  "videos": [
+    {
+      "id": "XzU30OEbsts",
+      "title": "What is the RBI repo rate, and how does it affect your loans?",
+      "source": "The Financial Express",
+      "duration": "5:13"
+    },
+    {
+      "id": "zIbNJCSCEjk",
+      "title": "Inflation, explained in six minutes",
+      "source": "Johnny Harris",
+      "duration": "8:44"
+    },
+    {
+      "id": "hsbhN7i7H8E",
+      "title": "How the share market works, from scratch",
+      "source": "Dhruv Rathee",
+      "duration": "14:05"
+    },
+    {
+      "id": "5wIGQLYqPKg",
+      "title": "Mutual funds explained simply: SIP, index funds and ETFs",
+      "source": "Pranjal Kamra",
+      "duration": "25:20"
+    }
+  ],
+  "explained": [
+    "what-is-sip-explained",
+    "new-tax-regime-explained"
+  ]
+}

@@ -1,0 +1,15 @@
+AXES: BEGIN version 9.0.0, blocking by ip_address
+SystemCheckError: System check identified some issues:
+
+ERRORS:
+?: (news.E001) AWS_ACCESS_KEY_ID must be configured for launch.
+?: (news.E001) AWS_S3_CUSTOM_DOMAIN must be configured for launch.
+?: (news.E001) AWS_SECRET_ACCESS_KEY must be configured for launch.
+?: (news.E001) AWS_STORAGE_BUCKET_NAME must be configured for launch.
+?: (news.E001) CSRF_TRUSTED_ORIGINS must be configured for launch.
+?: (news.E002) FRONTEND_URL must use HTTPS.
+
+WARNINGS:
+?: (security.W008) Your SECURE_SSL_REDIRECT setting is not set to True. Unless your site should be available over both SSL and non-SSL connections, you may want to either set this setting True or configure a load balancer or reverse-proxy server to redirect all connections to HTTPS.
+
+System check identified 7 issues (0 silenced).

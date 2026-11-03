@@ -1,0 +1,14 @@
+{
+  "/": {
+    "status": 200,
+    "has_expected_content": true
+  },
+  "/article/sensex-jumps-crude-slides": {
+    "status": 200,
+    "has_expected_content": true
+  },
+  "/category/markets": {
+    "status": 200,
+    "has_expected_content": true
+  }
+}

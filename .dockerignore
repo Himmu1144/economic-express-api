@@ -1,0 +1,11 @@
+.git
+.env*
+.venv
+*.sqlite3
+__pycache__
+
+.demo-login.json
+.neon
+node_modules/
+evidence/
+.ruff_cache/

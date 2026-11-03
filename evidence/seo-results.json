@@ -1,0 +1,33 @@
+{
+  "title": "Sensex jumps 1,200 points as crude slides below $72 and banks lead a broad rally | Economic.Express",
+  "description": "Falling oil prices eased inflation worries, pulling foreign investors back into Indian equities. Nifty closed above 23,800 for the first time in three weeks.",
+  "canonical": "http://localhost:3001/article/sensex-jumps-crude-slides",
+  "og": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=1600&q=70&auto=format&fit=crop",
+  "jsonld": {
+    "@context": "https://schema.org",
+    "@type": "NewsArticle",
+    "headline": "Sensex jumps 1,200 points as crude slides below $72 and banks lead a broad rally",
+    "description": "Falling oil prices eased inflation worries, pulling foreign investors back into Indian equities. Nifty closed above 23,800 for the first time in three weeks.",
+    "image": [
+      "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=1600&q=70&auto=format&fit=crop"
+    ],
+    "datePublished": "2026-11-03T17:58:09.773758+05:30",
+    "author": [
+      {
+        "@type": "Organization",
+        "name": "Economic.Express Desk"
+      }
+    ],
+    "publisher": {
+      "@type": "Organization",
+      "name": "Economic.Express",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "http://localhost:3001/icon.svg"
+      }
+    },
+    "mainEntityOfPage": "http://localhost:3001/article/sensex-jumps-crude-slides",
+    "articleSection": "Markets",
+    "keywords": "Sensex, Nifty, Crude oil, FII"
+  }
+}

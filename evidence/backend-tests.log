@@ -1,0 +1,94 @@
+AXES: BEGIN version 9.0.0, blocking by ip_address
+/private/tmp/ee-venv/lib/python3.14/site-packages/django/core/handlers/base.py:61: UserWarning: No directory at: /Users/himmu1144/Documents/Projects/onf/economic-express-api/staticfiles/
+  mw_instance = middleware(adapted_handler)
+AXES: User login failed, running database handler for failure.
+AXES: Cleaned up 0 expired access attempts from database that were older than 2026-11-03 11:43:39.019457+00:00
+AXES: New login failure by {username: "********************", ip_address: "********************", user_agent: "<unknown>", path_info: "/admin/login/"}. Created new record in the database.
+AXES: User login failed, running database handler for failure.
+AXES: Cleaned up 0 expired access attempts from database that were older than 2026-11-03 11:43:39.115012+00:00
+AXES: Repeated login failure by {username: "********************", ip_address: "********************", user_agent: "<unknown>", path_info: "/admin/login/"}. Updated existing record in the database.
+AXES: User login failed, running database handler for failure.
+AXES: Cleaned up 0 expired access attempts from database that were older than 2026-11-03 11:43:39.202347+00:00
+AXES: Repeated login failure by {username: "********************", ip_address: "********************", user_agent: "<unknown>", path_info: "/admin/login/"}. Updated existing record in the database.
+AXES: User login failed, running database handler for failure.
+AXES: Cleaned up 0 expired access attempts from database that were older than 2026-11-03 11:43:39.289779+00:00
+AXES: Repeated login failure by {username: "********************", ip_address: "********************", user_agent: "<unknown>", path_info: "/admin/login/"}. Updated existing record in the database.
+AXES: User login failed, running database handler for failure.
+AXES: Cleaned up 0 expired access attempts from database that were older than 2026-11-03 11:43:39.378248+00:00
+AXES: Repeated login failure by {username: "********************", ip_address: "********************", user_agent: "<unknown>", path_info: "/admin/login/"}. Updated existing record in the database.
+AXES: Locking out {username: "********************", ip_address: "********************", user_agent: "<unknown>", path_info: "/admin/login/"} after repeated login failures.
+Too Many Requests: /admin/login/
+AXES: User login failed, running database handler for failure.
+AXES: Cleaned up 0 expired access attempts from database that were older than 2026-11-03 11:43:39.467796+00:00
+AXES: Repeated login failure by {username: "********************", ip_address: "********************", user_agent: "<unknown>", path_info: "/admin/login/"}. Updated existing record in the database.
+AXES: Locking out {username: "********************", ip_address: "********************", user_agent: "<unknown>", path_info: "/admin/login/"} after repeated login failures.
+Too Many Requests: /admin/login/
+AXES: Successful login by {username: "********************", ip_address: "********************", user_agent: "<unknown>", path_info: "<unknown>"}.
+AXES: Cleaned up 0 expired access attempts from database that were older than 2026-11-03 11:43:39.496948+00:00
+Bad Request: /admin/inline-upload/
+Revalidation 1 failed; queued for retry
+Revalidation 2 failed; queued for retry
+Revalidation 3 failed; queued for retry
+Too Many Requests: /api/newsletter/
+Not Found: /api/articles/a-story-2/
+Not Found: /api/articles/a-story-3/
+Not Found: /api/articles/missing/
+Not Found: /api/articles/a-story/
+Not Found: /api/resolve/article/a-story/
+Not Found: /api/resolve/article/a-story/
+Not Found: /api/resolve/category/missing/
+Too Many Requests: /api/articles/a-story/view/
+AXES: Successful login by {username: "********************", ip_address: "********************", user_agent: "<unknown>", path_info: "<unknown>"}.
+AXES: Cleaned up 0 expired access attempts from database that were older than 2026-11-03 11:43:40.291999+00:00
+Forbidden (Permission denied): /admin/article-preview/103/
+Traceback (most recent call last):
+  File "/private/tmp/ee-venv/lib/python3.14/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/private/tmp/ee-venv/lib/python3.14/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/private/tmp/ee-venv/lib/python3.14/site-packages/django/utils/decorators.py", line 192, in _view_wrapper
+    result = _process_exception(request, e)
+  File "/private/tmp/ee-venv/lib/python3.14/site-packages/django/utils/decorators.py", line 190, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+  File "/private/tmp/ee-venv/lib/python3.14/site-packages/django/views/decorators/cache.py", line 80, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+  File "/private/tmp/ee-venv/lib/python3.14/site-packages/django/contrib/admin/sites.py", line 246, in inner
+    return view(request, *args, **kwargs)
+  File "/Users/himmu1144/Documents/Projects/onf/economic-express-api/news/admin.py", line 262, in preview
+    raise PermissionDenied
+django.core.exceptions.PermissionDenied
+Ticker refresh failed; retaining last good values
+Traceback (most recent call last):
+  File "/Users/himmu1144/Documents/Projects/onf/economic-express-api/news/ticker.py", line 61, in refresh
+    values = dict(pool.map(fetch_symbol, SYMBOLS.items()))
+  File "/opt/homebrew/Cellar/python@3.14/3.14.5/Frameworks/Python.framework/Versions/3.14/lib/python3.14/concurrent/futures/_base.py", line 639, in result_iterator
+    yield _result_or_cancel(fs.pop())
+          ~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/opt/homebrew/Cellar/python@3.14/3.14.5/Frameworks/Python.framework/Versions/3.14/lib/python3.14/concurrent/futures/_base.py", line 311, in _result_or_cancel
+    return fut.result(timeout)
+           ~~~~~~~~~~^^^^^^^^^
+  File "/opt/homebrew/Cellar/python@3.14/3.14.5/Frameworks/Python.framework/Versions/3.14/lib/python3.14/concurrent/futures/_base.py", line 443, in result
+    return self.__get_result()
+           ~~~~~~~~~~~~~~~~~^^
+  File "/opt/homebrew/Cellar/python@3.14/3.14.5/Frameworks/Python.framework/Versions/3.14/lib/python3.14/concurrent/futures/_base.py", line 395, in __get_result
+    raise self._exception
+  File "/opt/homebrew/Cellar/python@3.14/3.14.5/Frameworks/Python.framework/Versions/3.14/lib/python3.14/concurrent/futures/thread.py", line 86, in run
+    result = ctx.run(self.task)
+  File "/opt/homebrew/Cellar/python@3.14/3.14.5/Frameworks/Python.framework/Versions/3.14/lib/python3.14/concurrent/futures/thread.py", line 73, in run
+    return fn(*args, **kwargs)
+  File "/opt/homebrew/Cellar/python@3.14/3.14.5/Frameworks/Python.framework/Versions/3.14/lib/python3.14/unittest/mock.py", line 1176, in __call__
+    return self._mock_call(*args, **kwargs)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/Cellar/python@3.14/3.14.5/Frameworks/Python.framework/Versions/3.14/lib/python3.14/unittest/mock.py", line 1180, in _mock_call
+    return self._execute_mock_call(*args, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/Cellar/python@3.14/3.14.5/Frameworks/Python.framework/Versions/3.14/lib/python3.14/unittest/mock.py", line 1241, in _execute_mock_call
+    raise effect
+requests.exceptions.Timeout
+----------------------------------------------------------------------
+Ran 18 tests in 1.300s
+
+OK
+System check identified no issues (0 silenced).
+Demo content: 29 articles, 9 categories. Do not present these samples as live news.
+Demo content: 29 articles, 9 categories. Do not present these samples as live news.
