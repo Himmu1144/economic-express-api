@@ -1,0 +1,9 @@
+{
+  "httpTarget": {
+    "uri": "https://economic-express-api.onrender.com/health/"
+  },
+  "lastAttemptTime": "2026-11-03T15:10:03.682173Z",
+  "schedule": "*/10 * * * *",
+  "state": "ENABLED",
+  "status": {}
+}

@@ -1,0 +1,34 @@
+{
+  "/": {
+    "status": 200,
+    "pass": true
+  },
+  "/article/sensex-jumps-crude-slides": {
+    "status": 200,
+    "pass": true
+  },
+  "/category/markets": {
+    "status": 200,
+    "pass": true
+  },
+  "/search?q=RBI": {
+    "status": 200,
+    "pass": true
+  },
+  "/sitemap.xml": {
+    "status": 200,
+    "pass": true
+  },
+  "/robots.txt": {
+    "status": 200,
+    "pass": true
+  },
+  "/article/definitely-missing": {
+    "status": 404,
+    "pass": true
+  },
+  "/category/definitely-missing": {
+    "status": 404,
+    "pass": true
+  }
+}

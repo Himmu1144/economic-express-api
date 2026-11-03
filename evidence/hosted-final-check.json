@@ -1,0 +1,14 @@
+{
+  "edit_revalidation": true,
+  "draft_api_and_frontend_404": {
+    "hosted-workflow-check-1793718558": {
+      "api": 404,
+      "frontend": 404
+    },
+    "neon-upload-workflow-check": {
+      "api": 404,
+      "frontend": 404
+    }
+  },
+  "public_sample_count": 29
+}

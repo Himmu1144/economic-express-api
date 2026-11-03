@@ -1,0 +1,93 @@
+Vercel CLI 58.1.0 (Node.js 25.9.0)
+Fetching deployment "economic-express-demo-62bi99ddz-nishnat121003-5696s-projects.vercel.app" in nishnat121003-5696s-projects
+2026-11-03T15:11:28.242Z  Running build in Washington, D.C., USA (East) – iad1
+2026-11-03T15:11:28.242Z  Build machine configuration: 2 cores, 8 GB
+2026-11-03T15:11:28.254Z  Retrieving list of deployment files...
+2026-11-03T15:11:28.356Z  Previous build caches not available.
+2026-11-03T15:11:28.578Z  Downloading 70 deployment files...
+2026-11-03T15:11:29.387Z  Running "vercel build"
+2026-11-03T15:11:29.397Z  Vercel CLI 65.4.0
+2026-11-03T15:11:29.747Z  Installing dependencies...
+2026-11-03T15:11:30.317Z  npm warn Unknown env config "cache-dir". This will stop working in the next major version of npm. See `npm help npmrc` for supported config options.
+2026-11-03T15:11:35.702Z  npm warn deprecated eslint@9.39.5: This version is no longer supported. Please see https://eslint.org/version-support for other options.
+2026-11-03T15:11:41.224Z  
+2026-11-03T15:11:41.224Z  added 364 packages in 11s
+2026-11-03T15:11:41.225Z  
+2026-11-03T15:11:41.225Z  147 packages are looking for funding
+2026-11-03T15:11:41.225Z  run `npm fund` for details
+2026-11-03T15:11:41.283Z  Detected Next.js version: 16.4.4
+2026-11-03T15:11:41.290Z  Running "npm run build"
+2026-11-03T15:11:41.421Z  npm warn Unknown env config "cache-dir". This will stop working in the next major version of npm. See `npm help npmrc` for supported config options.
+2026-11-03T15:11:41.444Z  
+2026-11-03T15:11:41.444Z  > economic-express-web@0.1.0 build
+2026-11-03T15:11:41.444Z  > next build
+2026-11-03T15:11:41.444Z  
+2026-11-03T15:11:41.992Z  ▲ Next.js 16.4.4 (Turbopack)
+2026-11-03T15:11:42.096Z  Applying modifyConfig from Vercel
+2026-11-03T15:11:42.101Z  ✓ Running next.config.ts took 109ms
+2026-11-03T15:11:42.123Z  Attention: Next.js now collects completely anonymous telemetry regarding usage.
+2026-11-03T15:11:42.124Z  This information is used to shape Next.js' roadmap and prioritize features.
+2026-11-03T15:11:42.125Z  You can learn more, including how to opt-out if you'd not like to participate in this anonymous program, by visiting the following URL:
+2026-11-03T15:11:42.125Z  https://nextjs.org/telemetry
+2026-11-03T15:11:42.125Z  
+2026-11-03T15:11:42.149Z  - Cache Components enabled
+2026-11-03T15:11:42.150Z  - Partial Prefetching enabled
+2026-11-03T15:11:42.150Z  - Experiments (use with caution):
+2026-11-03T15:11:42.150Z  · staticGenerationMaxConcurrency: 2
+2026-11-03T15:11:42.151Z  
+2026-11-03T15:11:42.197Z  Creating an optimized production build ...
+2026-11-03T15:11:52.783Z  ✓ Compiled successfully in 10.6s
+2026-11-03T15:11:52.801Z  Running TypeScript ...
+2026-11-03T15:11:58.453Z  Finished TypeScript in 5.7s ...
+2026-11-03T15:11:58.456Z  Collecting page data using 1 worker ...
+2026-11-03T15:12:00.466Z  Generating static pages using 1 worker (0/58) ...
+2026-11-03T15:12:04.886Z  Generating static pages using 1 worker (14/58)
+2026-11-03T15:12:08.933Z  Generating static pages using 1 worker (28/58)
+2026-11-03T15:12:11.541Z  Generating static pages using 1 worker (43/58)
+2026-11-03T15:12:12.433Z  ✓ Generating static pages using 1 worker (58/58) in 12.0s
+2026-11-03T15:12:12.448Z  Finalizing page optimization ...
+2026-11-03T15:12:12.582Z  Running onBuildComplete from Vercel
+2026-11-03T15:12:13.441Z  
+2026-11-03T15:12:13.444Z  Route (app)                                      Revalidate  Expire
+2026-11-03T15:12:13.444Z  ┌ ○ /                                                    1m      1h
+2026-11-03T15:12:13.445Z  ├ ○ /_not-found                                          1m      1h
+2026-11-03T15:12:13.445Z  ├ ○ /about                                               1m      1h
+2026-11-03T15:12:13.445Z  ├ ƒ /api/revalidate
+2026-11-03T15:12:13.445Z  ├ ○ /apple-icon.png
+2026-11-03T15:12:13.445Z  ├   /article/[slug]                                      1m      1h
+2026-11-03T15:12:13.445Z  │ ├ ◐ /article/[slug]                                    1m      1h
+2026-11-03T15:12:13.445Z  │ ├ ○ /article/hosted-workflow-check-1793718558          1m      1h
+2026-11-03T15:12:13.445Z  │ ├ ○ /article/neon-upload-workflow-check                1m      1h
+2026-11-03T15:12:13.445Z  │ └ ◐ [+29 more paths]
+2026-11-03T15:12:13.445Z  ├   /category/[slug]                                     1m      1h
+2026-11-03T15:12:13.445Z  │ ├ ◐ /category/[slug]                                   1m      1h
+2026-11-03T15:12:13.446Z  │ ├ ◐ /category/markets                                  1m      1h
+2026-11-03T15:12:13.446Z  │ ├ ◐ /category/economy                                  1m      1h
+2026-11-03T15:12:13.446Z  │ └ ◐ [+7 more paths]
+2026-11-03T15:12:13.446Z  ├ ○ /contact                                             1m      1h
+2026-11-03T15:12:13.446Z  ├ ○ /icon.svg
+2026-11-03T15:12:13.446Z  ├ ƒ /opengraph-image
+2026-11-03T15:12:13.446Z  ├ ○ /privacy-policy                                      1m      1h
+2026-11-03T15:12:13.446Z  ├ ○ /robots.txt
+2026-11-03T15:12:13.447Z  ├ ◐ /search                                              1m      1h
+2026-11-03T15:12:13.447Z  ├ ○ /sitemap.xml                                         1h      1d
+2026-11-03T15:12:13.447Z  ├   /tag/[slug]                                          1m      1h
+2026-11-03T15:12:13.447Z  │ └ ◐ /tag/[slug]                                        1m      1h
+2026-11-03T15:12:13.447Z  ├ ○ /terms                                               1m      1h
+2026-11-03T15:12:13.447Z  └ ○ /tools/sip-calculator                                1m      1h
+2026-11-03T15:12:13.447Z  
+2026-11-03T15:12:13.447Z  
+2026-11-03T15:12:13.447Z  ƒ Proxy (Middleware)
+2026-11-03T15:12:13.447Z  
+2026-11-03T15:12:13.447Z  ○  (Static)             prerendered as static content
+2026-11-03T15:12:13.447Z  ◐  (Partial Prerender)  prerendered as static HTML with dynamic server-streamed content
+2026-11-03T15:12:13.447Z  ƒ  (Dynamic)            server-rendered on demand
+2026-11-03T15:12:13.447Z  
+2026-11-03T15:12:16.054Z  Build Completed in /vercel/output [46s]
+2026-11-03T15:12:16.078Z  Deploying outputs...
+2026-11-03T15:12:24.269Z  Deployment completed
+2026-11-03T15:12:24.273Z  Creating build cache...
+2026-11-03T15:12:34.418Z  Created build cache: 10s
+2026-11-03T15:12:34.418Z  Uploading build cache [166.67 MB]
+2026-11-03T15:12:38.046Z  Build cache uploaded: 3.628s
+status	● Ready

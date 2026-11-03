@@ -1,6 +1,6 @@
 # Economic.Express API
 
-Private Django 5.2 / DRF backend for the adjacent Economic.Express Next.js frontend. Do not publish this repository. No remote is configured by this implementation.
+Django 5.2 / DRF backend for the adjacent Economic.Express Next.js frontend. The repository is public by the owner’s updated instruction. Credentials and editor passwords are excluded from Git and Docker builds. See `DEMO-DEPLOYMENT.md` for the hosted demo.
 
 ## Developer setup
 

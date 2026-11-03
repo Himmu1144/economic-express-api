@@ -1,0 +1,12 @@
+{
+  "login": true,
+  "draft_hidden": true,
+  "published_api_http": 200,
+  "cover_public_http": 200,
+  "cover_format": "WEBP",
+  "cover_width": 1600,
+  "slug": "hosted-workflow-check-1793718558",
+  "article_id": "31",
+  "api_url": "https://economic-express-api.onrender.com",
+  "frontend_url": "https://economic-express-demo.vercel.app"
+}
